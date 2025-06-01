@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jianghao Liu",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jianghaolouisliu@gmail.com",
+    "phone": ,
+    "url": "https://jianghao-liu.github.io",
+    "summary": "Researcher on cognitive neuroscience of mental imagery, aphantasia and consciousness",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "47 Blv de l'Hôpital",
+      "postalCode": "75013",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "île-de-France"
     },
     "profiles": [
       {
@@ -24,11 +24,11 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Paris brain institute (ICM)",
+      "position": "Postdoc",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2024-01-01",
+      "endDate": "2025-09-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
@@ -168,10 +168,6 @@
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
       ]
     }
   ],

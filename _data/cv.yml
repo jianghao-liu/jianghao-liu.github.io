@@ -1,97 +1,46 @@
+
+# another way to define CV /assets/json/resume.json
+# It is a [known standard](https://jsonresume.org/) for creating a CV programmatically.
+
 - title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Jianghao Liu
+    - name: email
+      value: jianghaolouisliu@gmail.com
+    - name: Adresse
+      value: ICM (Picnic lab), 47 Blv de l'Hôpital, 75013, Paris, France
     - name: Languages
-      value: English, German
+      value: English, French (bilingual), Chinese (native)
+    - name: summary
+      value: Researcher on cognitive neuroscience of mental imagery, aphantasia and consciousness
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: Sorbonne Université, Paris, France
+      year: 2019-2023
+      description: <a href="https://theses.hal.science/THESES-SU/tel-04474770v1">Inimaginables - individual brain differences in visual mental imagery</a>
+    - title: Master of Science
+      institution: ESPCI Paris & Université Paris Descartes
+      year: 2017-2018
+      description: Bioengineering and innovation in neuroscience
+    - title: French Engineering degree (Diplôme d'ingénieur)
+      institution: Arts et Métiers - ParisTech (ENSAM)
+      year: 2015-2018
+      description: Mechanical engineering and industrialization
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research engineer @ Living Brain
+      institution: Corporate Research, Dassault Systèmes, France
+      year: 2018-now
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Visiting scholar @ Zuckerman Institute
+      institution: Columbia university, New York, US
+      year: 2023-2023
+      description:

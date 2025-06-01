@@ -1,12 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"imagery":
+  color: "#3bd464"
 
-"Vision":
-  color: "#009f36"
+"att&consci":
+  color: "#3bd464"
 
-"Cortex":
-  color: "#009f36"
+"aphantasia":
+  color: "#3bd464"
