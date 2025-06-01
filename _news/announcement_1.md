@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-01-23 15:59:00-0400
+date: 2024-05-13 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I won the [EWCN](https://sites.google.com/view/ewcn/ewcn-prize/ewcn-prize-2023?authuser=0) Prize for my 7T study on visual mental imagery and aphantasia!
+**_Le Monde_** reported our fMRI study on aphantasia :point_right: [Vivre sans avoir d’images mentales… et ne pas le savoir](https://www.lemonde.fr/sciences/article/2024/05/13/vivre-sans-avoir-d-images-mentales-et-ne-pas-le-savoir_6233001_1650684.html)
