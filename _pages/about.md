@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc on cognitive neuroscience in Picnic lab at [Paris brain institute](https://parisbraininstitute.org/paris-brain-institute-research-teams/picnic-neuropsychology-and-functional-neuroimaging).
+subtitle: Postdoc on cognitive neuroscience in Picnic lab at <a href="https://parisbraininstitute.org/paris-brain-institute-research-teams/picnic-neuropsychology-and-functional-neuroimaging">Paris brain institute</a>..
 
 profile:
   align: right
