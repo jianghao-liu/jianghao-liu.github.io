@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm working on *visual mental imagery*, *aphantasia* and topics associated with *attention and consciousness*. I use neuroimaging techniques including 7T fMRI, DTI and intracranial recording.
+I'm working on _visual mental imagery_, _aphantasia_ and topics associated with _attention and consciousness_. I use neuroimaging techniques including 7T fMRI, DTI and intracranial recording.
 
 Originally trained in mechanical engineering for many years, I later transitioned into the field of neuroscience.

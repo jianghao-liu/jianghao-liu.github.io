@@ -4,7 +4,7 @@
     "label": "",
     "image": "",
     "email": "jianghaolouisliu@gmail.com",
-    "phone": ,
+    "phone": "",
     "url": "https://jianghao-liu.github.io",
     "summary": "Researcher on cognitive neuroscience of mental imagery, aphantasia and consciousness",
     "location": {
@@ -165,10 +165,7 @@
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-      ]
+      "keywords": ["Quantum Mechanics", "Quantum Computing"]
     }
   ],
   "references": [

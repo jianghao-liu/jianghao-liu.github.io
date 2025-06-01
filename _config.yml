@@ -49,7 +49,6 @@ posts_in_search: true
 bib_search: true
 search_enabled: false
 
-
 # Dimensions
 max_width: 930px
 
