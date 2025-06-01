@@ -59,10 +59,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-i-won-the-ewcn-prize-2023-on-the-european-workshop-on-cognitive-neuropsychology-in-italy",
-          title: 'I won the EWCN prize 2023 on the European Workshop on Cognitive Neuropsychology...',
-          description: "",
-          section: "News",},{id: "news-i-successfully-defended-my-phd-thesis",
+      },{id: "news-i-successfully-defended-my-phd-thesis",
           title: 'I successfully defended my Phd thesis!',
           description: "",
           section: "News",handler: () => {
