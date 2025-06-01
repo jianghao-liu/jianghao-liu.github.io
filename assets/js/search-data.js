@@ -59,8 +59,8 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-i-won-the-ewcn-prize-for-my-7t-study-on-visual-mental-imagery-and-aphantasia",
-          title: 'I won the EWCN Prize for my 7T study on visual mental imagery...',
+      },{id: "news-i-won-the-ewcn-prize-2023-on-the-european-workshop-on-cognitive-neuropsychology-in-italy",
+          title: 'I won the EWCN prize 2023 on the European Workshop on Cognitive Neuropsychology...',
           description: "",
           section: "News",},{id: "news-i-successfully-defended-my-phd-thesis",
           title: 'I successfully defended my Phd thesis!',
@@ -69,6 +69,9 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-we-started-a-new-journal-club-on-aphantasia-irca-sparkles-smile",
           title: 'We started a new journal club on aphantasia: IRCA :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-le-monde-reported-our-fmri-study-on-aphantasia-point-right-vivre-sans-avoir-d-images-mentales-et-ne-pas-le-savoir",
+          title: 'Le Monde reported our fMRI study on aphantasia :point_right: Vivre sans avoir d’images...',
           description: "",
           section: "News",},{
         id: 'social-email',
