@@ -11,9 +11,8 @@ description: Interdisciplinary Reading Club of Aphantasia
 
 We host monthly online meetings where researchers from diverse fields—including neuroscience, psychology, and philosophy—discuss recent findings, share methodologies, and explore new directions in aphantasia research.
 
-Here is a list of past session:
-
-Invited guests or speaker (abstract below)
+Here is a list of invited guests or speaker for past sessions:
+(abstract below)  
 
 | #             | Date                | Speaker                    | University                                 | Title                                                                                                    |
 | ------------- | ------------------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
@@ -26,6 +25,9 @@ Invited guests or speaker (abstract below)
 | 11th          | 17th February 2025  | Maël Delem & Gaën Plancher | University of Lyon (France)                | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm           |
 | 12th          | 26th March 2025     | Edward Burns               | Swansea University (UK)                    | Should aphantasia be viewed as a neurodevelopmental condition?                                           |
 | 13th-one-year | 15 May 2025         | Adam Zeman                 | University of Edinburgh                    | Aphantasia in 9 chapters                                                                                 |
+
+
+
 
 **5th: Andrew Larner: Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations**
 
@@ -63,6 +65,6 @@ For some people the experience of visual imagery is lacking, a condition recentl
 
 Close your eyes and visualise an apple. Most people will be able to see an apple in their mind’s eye, albeit with considerable individual differences in its vividness. Curiously, around 4% of the general population will report there is nothing there, except blackness, or at best, unclear shapes. This lack of mental imagery is called aphantasia, with a consensus amongst researchers that it should not be viewed as a neurodevelopmental condition (e.g., like autism, ADHD, dyslexia and dyspraxia). But what if aphantasia is a neurodevelopmental condition? How do we validate it? In this talk, I identify key characteristics shared across neurodevelopmental conditions, and strikingly confirm aphantasia exhibits these same traits too. This wealth of evidence, I argue, shows aphantasia should be classified as a neurodevelopmental condition. To facilitate acceptance of aphantasia as a neurodevelopmental condition, I summarise the dangers associated with rejecting this position, and highlight the many benefits this new status will bring.
 
-**13th: Adam Zeman: Aphantasia in 9 chapters (Adam Zeman)**
+**13th: Adam Zeman: Aphantasia in 9 chapters**
 
 I will give a historical, partly autobiographical, account of the recent rediscovery of visual imagery extremes and the research that has flowed from this, touching on our description of MX in 2010, the coinage of the term aphantasia in 2015, the work of the multidisciplinary Eye’s Mind Team between 2015 and 2019 and the substantial research output from groups around the world since then. I will close by considering promising future directions for research and why this topic has resonated so widely in both the lay and the scientific communities.
