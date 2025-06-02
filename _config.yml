@@ -81,7 +81,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My blog # blog_name will be displayed in your blog page
+blog_name: My research blog # blog_name will be displayed in your blog page
 blog_description: some random thought as a living brain
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -92,7 +92,7 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 3
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -117,12 +117,12 @@ disqus_shortname: jianghao_liu # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  #  - name: nature neuroscience
+  #    rss_url: https://www.nature.com/neuro.rss
+  - name: ICM news
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://parisbraininstitute.org/news/probing-unimaginable-new-data-help-understand-nature-aphantasia
+        published_date: 2023-09-08
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -241,13 +241,13 @@ jekyll-archives:
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
 
-display_tags: #["mentalimagery", "aphantasia", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: #["imagery", "aphantasia", "math", "code"] # these tags will be displayed on the front page of your blog
+
 display_categories: #["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-
 scholar:
   last_name: [Liu]
   first_name: [Jianghao]

@@ -11,6 +11,10 @@ horizontal: false
 
 "page under construction"
 
+- "Mind's eye" visual mental imagery and aphantasia
+- Visual topographical maps
+- Attention and conscious report
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

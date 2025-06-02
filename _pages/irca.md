@@ -2,7 +2,7 @@
 layout: page
 permalink: /irca/
 title: IRCA
-description: Interdisciplinary Reading Club of Aphantasia
+description: Interdisciplinary Reading Club of Aphantasia (IRCA)
 ---
 
 **IRCA** (Interdisciplinary Reading Club of Aphantasia) was co-founded by [Jianghao Liu](https://jianghao-liu.github.io/) and [Christian O. Scholz](https://scholar.google.com/citations?user=WdYzuTUAAAAJ&hl=en&oi=sra) in 2024 to advance interdisciplinary studies of aphantasia. The initial motivation was extending our own passion for science and thinking through numerous discussions to a broad circle of researchers.
@@ -12,22 +12,21 @@ description: Interdisciplinary Reading Club of Aphantasia
 We host monthly online meetings where researchers from diverse fields—including neuroscience, psychology, and philosophy—discuss recent findings, share methodologies, and explore new directions in aphantasia research.
 
 Here is a list of invited guests or speaker for past sessions:
-(abstract below)  
+(abstract below)
 
-| #             | Date                | Speaker                    | University                                 | Title                                                                                                    |
-| ------------- | ------------------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| 5th           | 29th August 2024    | Andrew Larner              | UCL (UK)                                   | Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations                  |
-| 6th           | 19th September 2024 | Reshanne R. Reeder         | University of Liverpool (UK)               | Non-visual spatial strategies are effective for maintaining precise information in visual working memory |
-| 7th           | 21st October 2024   | Laura Speed                | Radboud University (Netherlands)           | Insights into embodied cognition and mental imagery from aphantasia                                      |
-| 8th           | 20th November 2024  | Andrea Blomkvist           | University of Glasgow (UK)                 | Investigating working memory and episodic memory in aphantasia                                           |
-| 9th           | 18th December 2024  | Ladislas Nalborczyk        | CNRS (France)                              | Phenomenology, diversity, and neural mechanisms of inner speech                                          |
-| 10th          | 23rd January 2025   | Lu Teng                    | Australian National University (Australia) | Does Aphantasia Support Unconscious Imagination?                                                         |
-| 11th          | 17th February 2025  | Maël Delem & Gaën Plancher | University of Lyon (France)                | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm           |
-| 12th          | 26th March 2025     | Edward Burns               | Swansea University (UK)                    | Should aphantasia be viewed as a neurodevelopmental condition?                                           |
-| 13th-one-year | 15 May 2025         | Adam Zeman                 | University of Edinburgh                    | Aphantasia in 9 chapters                                                                                 |
+| #            | Date        | Speaker                    | University                                 | Title                                                                                                    |
+| ------------ | ----------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 5            | 2024-08-29  | Andrew Larner              | UCL (UK)                                   | Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations                  |
+| 6            | 2024-09-19  | Reshanne R. Reeder         | University of Liverpool (UK)               | Non-visual spatial strategies are effective for maintaining precise information in visual working memory |
+| 7            | 2024-10-21  | Laura Speed                | Radboud University (Netherlands)           | Insights into embodied cognition and mental imagery from aphantasia                                      |
+| 8            | 2024-11-20  | Andrea Blomkvist           | University of Glasgow (UK)                 | Investigating working memory and episodic memory in aphantasia                                           |
+| 9            | 2024-12-18  | Ladislas Nalborczyk        | CNRS (France)                              | Phenomenology, diversity, and neural mechanisms of inner speech                                          |
+| 10           | 2025-01-23  | Lu Teng                    | Australian National University (Australia) | Does Aphantasia Support Unconscious Imagination?                                                         |
+| 11           | 2025-02-17  | Maël Delem & Gaën Plancher | University of Lyon (France)                | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm           |
+| 12           | 2025-03-26  | Edward Burns               | Swansea University (UK)                    | Should aphantasia be viewed as a neurodevelopmental condition?                                           |
+| **one-year** | 15 May 2025 | Adam Zeman                 | University of Edinburgh                    | Aphantasia in 9 chapters                                                                                 |
 
-
-
+## Abstract
 
 **5th: Andrew Larner: Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations**
 

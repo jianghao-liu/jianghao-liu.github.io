@@ -27,7 +27,7 @@
       year: 2017-2018
       description: Bioengineering and innovation in neuroscience
     - title: French Engineering degree (Diplôme d'ingénieur)
-      institution: Arts et Métiers - ParisTech (ENSAM)
+      institution: <a href="https://artsetmetiers.fr/fr">Arts et Métiers - ParisTech (ENSAM)</a>
       year: 2015-2018
       description: Mechanical engineering and industrialization
 
@@ -35,7 +35,7 @@
   type: time_table
   contents:
     - title: Research engineer @ Living Brain
-      institution: Corporate Research, Dassault Systèmes, France
+      institution: Corporate Research, <a href="https://www.3ds.com/fr/">Dassault Systèmes</a>, France
       year: 2018-now
       description:
 
