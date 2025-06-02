@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "You can also download the cv by clicking the button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
@@ -37,30 +30,95 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "nav-cv",
+          title: "cv",
+          description: "You can also download the cv by clicking the button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "post-probing-the-unimaginable-new-data-help-to-understand-the-nature-of-aphantasia-paris-brain-institute",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Probing the unimaginable: new data help to understand the nature of aphantasia |... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "“Think of a white sandy beach on a paradise island. Can you see it?” The ability to visualize a place, object, or place on request varies",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+            window.open("https://parisbraininstitute.org/news/probing-unimaginable-new-data-help-understand-nature-aphantasia", "_blank");
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+      },{id: "post-the-connectional-anatomy-of-visual-mental-imagery",
         
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "The connectional anatomy of visual mental imagery",
         
-        description: "",
+        description: "the anatomical connection of the FIN",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+            window.location.href = "/blog/2022/anatomy-fin/";
+          
+        },
+      },{id: "post-the-interplay-of-attention-and-conscious-perception",
+        
+          title: "the interplay of attention and conscious perception",
+        
+        description: "the anatomical connection of the FIN",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/attention-consciousness/";
+          
+        },
+      },{id: "post-besoin-de-volontaires-pour-une-étude-sur-l-imagination-en-irm",
+        
+          title: "Besoin de volontaires pour une étude sur l’imagination en IRM",
+        
+        description: "cherche des volontaires pour nos études sur l&#39;imagination",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/recruitment/";
+          
+        },
+      },{id: "post-hemispheric-asymmetries-in-visual-mental-imagery",
+        
+          title: "hemispheric asymmetries in visual mental imagery",
+        
+        description: "review of evidence of neuroimaging, neurological patients and electrical stimulation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/vmi-laterality/";
+          
+        },
+      },{id: "post-a-meta-analysis-of-neuroimaging-evidence-of-visual-mental-imagery",
+        
+          title: "a meta-analysis of neuroimaging evidence of visual mental imagery",
+        
+        description: "meta-analysis of visual mental imagery",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/metaanalysis/";
+          
+        },
+      },{id: "post-tests-de-imagerie-perception",
+        
+          title: "tests de Imagerie-Perception",
+        
+        description: "Enhanced Battery of Imagery and Perception",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/eBIP-fr/";
           
         },
       },{id: "news-i-won-the-ewcn-prize-2023-on-the-european-workshop-on-cognitive-neuropsychology-in-italy",
           title: 'I won the EWCN prize 2023 on the European Workshop on Cognitive Neuropsychology...',
+          description: "",
+          section: "News",},{id: "news-i-was-selected-for-next-frontiers-in-consciousness-research-at-national-institutes-of-health-nih-bethesda-us",
+          title: 'I was selected for Next frontiers in consciousness research at National Institutes of...',
           description: "",
           section: "News",},{id: "news-i-successfully-defended-my-phd-thesis",
           title: 'I successfully defended my Phd thesis!',
@@ -70,8 +128,8 @@ ninja.data = [{
             },},{id: "news-we-started-a-new-journal-club-on-aphantasia-irca-page-sparkles",
           title: 'We started a new journal club on aphantasia: IRCA Page :sparkles:',
           description: "",
-          section: "News",},{id: "news-le-monde-reported-our-fmri-study-on-aphantasia-point-right-vivre-sans-avoir-d-images-mentales-et-ne-pas-le-savoir",
-          title: 'Le Monde reported our fMRI study on aphantasia :point_right: Vivre sans avoir d’images...',
+          section: "News",},{id: "news-le-monde-reported-us-point-right-vivre-sans-avoir-d-images-mentales-et-ne-pas-le-savoir",
+          title: 'Le Monde reported us! :point_right: Vivre sans avoir d’images mentales… et ne pas...',
           description: "",
           section: "News",},{
         id: 'social-email',
