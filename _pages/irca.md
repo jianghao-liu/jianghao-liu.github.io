@@ -7,27 +7,25 @@ description: Interdisciplinary Reading Club of Aphantasia
 
 **IRCA** (Interdisciplinary Reading Club of Aphantasia) was co-founded by [Jianghao Liu](https://jianghao-liu.github.io/) and [Christian O. Scholz](https://scholar.google.com/citations?user=WdYzuTUAAAAJ&hl=en&oi=sra) in 2024 to advance interdisciplinary studies of aphantasia. The initial motivation was extending our own passion for science and thinking through numerous discussions to a broad circle of researchers.
 
->*The goal of the Interdisciplinary Reading Club on Aphantasia (IRCA) is to bring together neuroscientists, philosophers, and psychologists at varying career stages (incl. graduate students) to enable a cross-disciplinary exchange on topics related to aphantasia.*
+> _The goal of the Interdisciplinary Reading Club on Aphantasia (IRCA) is to bring together neuroscientists, philosophers, and psychologists at varying career stages (incl. graduate students) to enable a cross-disciplinary exchange on topics related to aphantasia._
 
 We host monthly online meetings where researchers from diverse fields—including neuroscience, psychology, and philosophy—discuss recent findings, share methodologies, and explore new directions in aphantasia research.
-
 
 Here is a list of past session:
 
 Invited guests or speaker (abstract below)
 
-| #    | Date   | Speaker  | University   | Title |
-| ---- | ------- | ------ | ------------- | ----- |
-| 5th  | 29th August 2024 | Andrew Larner | UCL (UK) | Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations |
-| 6th  | 19th September 2024 | Reshanne R. Reeder | University of Liverpool (UK)| Non-visual spatial strategies are effective for maintaining precise information in visual working memory |
-| 7th  | 21st October 2024 | Laura Speed | Radboud University (Netherlands) | Insights into embodied cognition and mental imagery from aphantasia|
-| 8th  | 20th November 2024 | Andrea Blomkvist | University of Glasgow (UK) | Investigating working memory and episodic memory in aphantasia |
-| 9th  | 18th December 2024  | Ladislas Nalborczyk  | CNRS (France)  | Phenomenology, diversity, and neural mechanisms of inner speech   |
-| 10th | 23rd January 2025   | Lu Teng   | Australian National University (Australia) | Does Aphantasia Support Unconscious Imagination?    |
-| 11th | 17th February 2025  | Maël Delem & Gaën Plancher | University of Lyon (France)  | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm  |
-| 12th | 26th March 2025  | Edward Burns | Swansea University (UK)  | Should aphantasia be viewed as a neurodevelopmental condition?  |
-| 13th-one-year | 15 May 2025  | Adam Zeman | University of Edinburgh  | Aphantasia in 9 chapters  |
-
+| #             | Date                | Speaker                    | University                                 | Title                                                                                                    |
+| ------------- | ------------------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 5th           | 29th August 2024    | Andrew Larner              | UCL (UK)                                   | Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations                  |
+| 6th           | 19th September 2024 | Reshanne R. Reeder         | University of Liverpool (UK)               | Non-visual spatial strategies are effective for maintaining precise information in visual working memory |
+| 7th           | 21st October 2024   | Laura Speed                | Radboud University (Netherlands)           | Insights into embodied cognition and mental imagery from aphantasia                                      |
+| 8th           | 20th November 2024  | Andrea Blomkvist           | University of Glasgow (UK)                 | Investigating working memory and episodic memory in aphantasia                                           |
+| 9th           | 18th December 2024  | Ladislas Nalborczyk        | CNRS (France)                              | Phenomenology, diversity, and neural mechanisms of inner speech                                          |
+| 10th          | 23rd January 2025   | Lu Teng                    | Australian National University (Australia) | Does Aphantasia Support Unconscious Imagination?                                                         |
+| 11th          | 17th February 2025  | Maël Delem & Gaën Plancher | University of Lyon (France)                | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm           |
+| 12th          | 26th March 2025     | Edward Burns               | Swansea University (UK)                    | Should aphantasia be viewed as a neurodevelopmental condition?                                           |
+| 13th-one-year | 15 May 2025         | Adam Zeman                 | University of Edinburgh                    | Aphantasia in 9 chapters                                                                                 |
 
 **5th: Andrew Larner: Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations**
 
@@ -63,8 +61,8 @@ For some people the experience of visual imagery is lacking, a condition recentl
 
 **12th: Edwin Burns: Should aphantasia be viewed as a neurodevelopmental condition?**
 
-Close your eyes and visualise an apple. Most people will be able to see an apple in their mind’s eye, albeit with considerable individual differences in its vividness. Curiously, around 4% of the general population will report there is nothing there, except blackness, or at best, unclear shapes. This lack of mental imagery is called aphantasia, with a consensus amongst researchers that it should not be viewed as a neurodevelopmental condition (e.g., like autism, ADHD, dyslexia and dyspraxia). But what if aphantasia is a neurodevelopmental condition? How do we validate it? In this talk, I identify key characteristics shared across neurodevelopmental conditions, and strikingly confirm aphantasia exhibits these same traits too. This wealth of evidence, I argue, shows aphantasia should be classified as a neurodevelopmental condition. To facilitate acceptance of aphantasia as a neurodevelopmental condition, I summarise the dangers associated with rejecting this position, and highlight the many benefits this new status will bring.  
+Close your eyes and visualise an apple. Most people will be able to see an apple in their mind’s eye, albeit with considerable individual differences in its vividness. Curiously, around 4% of the general population will report there is nothing there, except blackness, or at best, unclear shapes. This lack of mental imagery is called aphantasia, with a consensus amongst researchers that it should not be viewed as a neurodevelopmental condition (e.g., like autism, ADHD, dyslexia and dyspraxia). But what if aphantasia is a neurodevelopmental condition? How do we validate it? In this talk, I identify key characteristics shared across neurodevelopmental conditions, and strikingly confirm aphantasia exhibits these same traits too. This wealth of evidence, I argue, shows aphantasia should be classified as a neurodevelopmental condition. To facilitate acceptance of aphantasia as a neurodevelopmental condition, I summarise the dangers associated with rejecting this position, and highlight the many benefits this new status will bring.
 
 **13th: Adam Zeman: Aphantasia in 9 chapters (Adam Zeman)**
 
-I will give a historical, partly autobiographical, account of the recent rediscovery of visual imagery extremes and the research that has flowed from this, touching on our description of MX in 2010, the coinage of the term aphantasia in 2015, the work of the multidisciplinary Eye’s Mind Team between 2015 and 2019 and the substantial research output from groups around the world since then. I will close by considering promising future directions for research and why this topic has resonated so widely in both the lay and the scientific communities. 
+I will give a historical, partly autobiographical, account of the recent rediscovery of visual imagery extremes and the research that has flowed from this, touching on our description of MX in 2010, the coinage of the term aphantasia in 2015, the work of the multidisciplinary Eye’s Mind Team between 2015 and 2019 and the substantial research output from groups around the world since then. I will close by considering promising future directions for research and why this topic has resonated so widely in both the lay and the scientific communities.
