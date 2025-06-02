@@ -5,6 +5,66 @@ title: IRCA
 description: Interdisciplinary Reading Club of Aphantasia
 ---
 
-**IRCA** (Interdisciplinary Reading Club of Aphantasia) was co-founded by Christian O. Sholtz and myself in 2024 to advance interdisciplinary studies of aphantasia.
+**IRCA** (Interdisciplinary Reading Club of Aphantasia) was co-founded by [Jianghao Liu](https://jianghao-liu.github.io/) and [Christian O. Scholz](https://scholar.google.com/citations?user=WdYzuTUAAAAJ&hl=en&oi=sra) in 2024 to advance interdisciplinary studies of aphantasia. The initial motivation was extending our own passion for science and thinking through numerous discussions to a broad circle of researchers.
+
+>*The goal of the Interdisciplinary Reading Club on Aphantasia (IRCA) is to bring together neuroscientists, philosophers, and psychologists at varying career stages (incl. graduate students) to enable a cross-disciplinary exchange on topics related to aphantasia.*
 
 We host monthly online meetings where researchers from diverse fields—including neuroscience, psychology, and philosophy—discuss recent findings, share methodologies, and explore new directions in aphantasia research.
+
+
+Here is a list of past session:
+
+Invited guests or speaker (abstract below)
+
+| #    | Date   | Speaker  | University   | Title |
+| ---- | ------- | ------ | ------------- | ----- |
+| 5th  | 29th August 2024 | Andrew Larner | UCL (UK) | Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations |
+| 6th  | 19th September 2024 | Reshanne R. Reeder | University of Liverpool (UK)| Non-visual spatial strategies are effective for maintaining precise information in visual working memory |
+| 7th  | 21st October 2024 | Laura Speed | Radboud University (Netherlands) | Insights into embodied cognition and mental imagery from aphantasia|
+| 8th  | 20th November 2024 | Andrea Blomkvist | University of Glasgow (UK) | Investigating working memory and episodic memory in aphantasia |
+| 9th  | 18th December 2024  | Ladislas Nalborczyk  | CNRS (France)  | Phenomenology, diversity, and neural mechanisms of inner speech   |
+| 10th | 23rd January 2025   | Lu Teng   | Australian National University (Australia) | Does Aphantasia Support Unconscious Imagination?    |
+| 11th | 17th February 2025  | Maël Delem & Gaën Plancher | University of Lyon (France)  | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm  |
+| 12th | 26th March 2025  | Edward Burns | Swansea University (UK)  | Should aphantasia be viewed as a neurodevelopmental condition?  |
+| 13th-one-year | 15 May 2025  | Adam Zeman | University of Edinburgh  | Aphantasia in 9 chapters  |
+
+
+**5th: Andrew Larner: Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations**
+
+Within the past decade, the term “phantasia” has been increasingly used to describe the human capacity, faculty, or power of visual mental imagery, with extremes of imagery vividness characterised as “aphantasia” and “hyperphantasia”. A substantial volume of empirical research addressing these constructs has now been published, including attempts to find inductive correlates of behaviourally defined aphantasia, for example using research questionnaires and functional magnetic resonance imaging. Mental imagery has long been noted as a source of conceptual confusions but no specific conceptual analysis of the new formulation of phantasia,
+aphantasia, and hyperphantasia has been undertaken hitherto. We offer some conceptual considerations on phantasia, noting the ongoing confusion of perceptual with mental images, and the ubiquitous use of unvalidated subjective assessment instruments such as the Vividness of Visual Imagery Questionnaire (VVIQ) in diagnosis and assessment, development of which was predicated on these conceptual confusions. We offer some suggestions for a conceptual framework for future empirical studies in this field, circumventing these conceptual confusions.
+
+**6th: Reshanne R. Reeder: Non-visual spatial strategies are effective for maintaining precise information in visual working memory**
+
+Visual working memory content is commonly thought to be composed of a precise visual representation of stimulus information (e.g., color, shape). Nevertheless, previous research has shown that individuals represent this visual information in different formats, historically dichotomized into “verbal” and “visual” formats. With growing popular knowledge of aphantasia, or the absence of sensory mental imagery, recent studies have demonstrated that individuals with aphantasia perform similarly to individuals with typical imagery on visual working memory tasks. This suggest that the use of non-visual strategies may be sufficient to perform visual working memory tasks, which were previously thought to be strictly visual. To investigate the effects of different strategies on performance in a visual working memory task, we recruited individuals across the visual imagery spectrum and tested their ability to identify relatively small (3°), medium (6°), or large (10°) changes in the degree of orientation of gratings held in working memory. Subsequently, participants indicated the extent to which they used five different strategies: visual, spatial, verbal, semantic, and sensorimotor. Results revealed that individuals with aphantasia and typical imagery performed similarly to each other across all task difficulty levels. Individuals with typical imagery dominantly used visuospatial strategies, but surprisingly, individuals with aphantasia overwhelmingly preferred the use of non-visual spatial and sensorimotor strategies over verbal strategies. These results suggest that non-visual spatial and sensorimotor strategies can be adopted in visual working memory tasks and these strategies are equally effective as visuospatial strategies. This calls for a rethinking of the “visual” versus “verbal” dichotomy, and provides evidence for the use of other non-visual mental representations in working memory tasks.
+
+**7th: Laura Speed: Insights into embodied cognition and mental imagery from aphantasia**
+
+Mental representations allow humans to think about, remember and communicate about an infinite number of concepts. A key question within cognitive psychology is how the mind stores and accesses the meaning of concepts. Embodied theories propose that concept knowledge includes or requires simulations of the sensory and physical interactions of one’s body with the world, even when a concept is subsequently processed in a context unrelated to those interactions. However, the nature of these simulations is highly debated and their mechanisms underspecified. Insight into whether and how simulations support concept knowledge can be derived from studying related mental representations, such as mental imagery. In particular, research into the inability to form mental imagery, known as aphantasia, can advance understanding of mental imagery and mental simulations. In this Review, we provide an overview of embodied theories of cognition, review research in mental imagery and consider how simulation and mental imagery might overlap. We then synthesize the growing aphantasia literature and discuss how aphantasia can be used to test predictions derived from theories of embodied cognition.
+
+**8th: Andrea Blomkvist: Investigating working memory and episodic memory in aphantasia**
+
+Previous research has suggested that people with aphantasia recall fewer details from their personal pasts, but the accuracy of these details are rarely assessed. We hypothesised that mental imagery could potentially be a source for introducing memory error, and tested this in a novel virtual reality paradigm. Participants explored two realistic indoors environments, before being asked to recall details of these, both immediately, and with a 24 hour delay. In addition, to understand the effect of aphantasia on episodic memory, it could be informative to investigate working memory and attention, as this could reveal potential differences in the way information is processed and encoded. To do so, we conducted the first large-scale EEG experiment with aphantasic participants, focusing on well-established tasks which were assessed neurally and behaviourally. In this talk, I will present our findings from both experiments, and suggest possible interpretations of the data.
+
+**9th: Ladislas Nalborczyk: Phenomenology, diversity, and neural mechanisms of inner speech**
+
+“Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia”
+
+It is commonly assumed that inner speech—the experience of thought as occurring in a natural language—is a human universal. Recent evidence, however, suggests that the experience of inner speech in adults varies from near constant to nonexistent. We propose a name for a lack of the experience of inner speech—anendophasia—and report four studies examining some of its behavioral consequences. We found that adults who reported low levels of inner speech (N = 46)
+had lower performance on a verbal working memory task and more difficulty performing rhyme judgments compared with adults who reported high levels of inner speech (N = 47). Task-switching performance—previously linked to endogenous verbal cueing—and categorical effects on perceptual judgments were unrelated to differences in inner speech.
+
+**10th: Lu Teng: Does Aphantasia Support Unconscious Imagination?**
+
+Aphantasia is a life-long condition where individuals appear unable to voluntarily generate conscious mental imagery. Interestingly, empirical research indicates that aphantasics perform similarly to typical subjects on various imagery-related tasks. Does this mean that they rely on unconscious imagination? In this paper, I challenge this interpretation and propose an alternative explanation. I argue that by moving beyond a traditional model of mental imagery, we can demonstrate that aphantasics typically retain a more abstract form of conscious mental imagery. Moreover, I analyze some recent, perplexing findings about aphantasia and show that our proposal can also account for these data.
+
+**11th: Maël Delem & Gaën Plancher: Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm**
+
+For some people the experience of visual imagery is lacking, a condition recently referred to as aphantasia. So far, most of the studies on aphantasia rely on subjective reports, leaving the question of whether mental images can exist without reaching consciousness unresolved. In the present study, the formation of mental images was estimated in individuals with aphantasia without explicitly asking them to generate mental images. 151 Participants performed an implicit priming task where a probe is assumed to automatically reactivate a mental image. An explicit priming task, where participants were explicitly required to form a mental image after a probe, served as a control task. While control participants showed a priming effect in both the implicit and explicit tasks, aphantasics did not show any priming effects. These results suggest that aphantasia relies on a genuine inability to generate mental images rather than on a deficit in accessing these images consciously. Our priming paradigm might be a promising tool for characterizing mental images without relying on participant introspection.
+
+**12th: Edwin Burns: Should aphantasia be viewed as a neurodevelopmental condition?**
+
+Close your eyes and visualise an apple. Most people will be able to see an apple in their mind’s eye, albeit with considerable individual differences in its vividness. Curiously, around 4% of the general population will report there is nothing there, except blackness, or at best, unclear shapes. This lack of mental imagery is called aphantasia, with a consensus amongst researchers that it should not be viewed as a neurodevelopmental condition (e.g., like autism, ADHD, dyslexia and dyspraxia). But what if aphantasia is a neurodevelopmental condition? How do we validate it? In this talk, I identify key characteristics shared across neurodevelopmental conditions, and strikingly confirm aphantasia exhibits these same traits too. This wealth of evidence, I argue, shows aphantasia should be classified as a neurodevelopmental condition. To facilitate acceptance of aphantasia as a neurodevelopmental condition, I summarise the dangers associated with rejecting this position, and highlight the many benefits this new status will bring.  
+
+**13th: Adam Zeman: Aphantasia in 9 chapters (Adam Zeman)**
+
+I will give a historical, partly autobiographical, account of the recent rediscovery of visual imagery extremes and the research that has flowed from this, touching on our description of MX in 2010, the coinage of the term aphantasia in 2015, the work of the multidisciplinary Eye’s Mind Team between 2015 and 2019 and the substantial research output from groups around the world since then. I will close by considering promising future directions for research and why this topic has resonated so widely in both the lay and the scientific communities. 
