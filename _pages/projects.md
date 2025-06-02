@@ -12,7 +12,7 @@ horizontal: false
 "page under construction"
 
 - "Mind's eye" visual mental imagery and aphantasia
-- Visual topographical maps
+- Topographical maps in the visual hierarchy
 - Attention and conscious report
 
 <!-- pages/projects.md -->
