@@ -131,6 +131,12 @@ ninja.data = [{
           section: "News",},{id: "news-le-monde-reported-us-point-right-vivre-sans-avoir-d-images-mentales-et-ne-pas-le-savoir",
           title: 'Le Monde reported us! :point_right: Vivre sans avoir d’images mentales… et ne pas...',
           description: "",
+          section: "News",},{id: "news-rotating-light-aphantasia-as-functional-disconnection-is-out-in-trends-in-cognitive-sciences",
+          title: ':rotating_light: Aphantasia as functional disconnection is out in Trends in Cognitive Sciences!',
+          description: "",
+          section: "News",},{id: "news-upcomming-absence-of-shared-representation-in-the-visual-cortex-challenges-unconscious-imagery-in-aphantasia-will-be-out-in-current-biology",
+          title: 'Upcomming!!! Absence of shared representation in the visual cortex challenges unconscious imagery in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
