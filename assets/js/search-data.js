@@ -134,8 +134,11 @@ ninja.data = [{
           section: "News",},{id: "news-rotating-light-aphantasia-as-functional-disconnection-is-out-in-trends-in-cognitive-sciences",
           title: ':rotating_light: Aphantasia as functional disconnection is out in Trends in Cognitive Sciences!',
           description: "",
-          section: "News",},{id: "news-upcomming-absence-of-shared-representation-in-the-visual-cortex-challenges-unconscious-imagery-in-aphantasia-will-be-out-in-current-biology",
-          title: 'Upcomming!!! Absence of shared representation in the visual cortex challenges unconscious imagery in...',
+          section: "News",},{id: "news-absence-of-shared-representation-in-the-visual-cortex-challenges-unconscious-imagery-in-aphantasia-is-out-in-current-biology",
+          title: 'Absence of shared representation in the visual cortex challenges unconscious imagery in aphantasia...',
+          description: "",
+          section: "News",},{id: "news-rotating-light-preprint-an-attention-based-neural-model-of-subjective-imagery-and-aphantasia-my-latest-theoretical-paper",
+          title: ':rotating_light: Preprint: an attention-based neural model of subjective imagery and aphantasia: my latest...',
           description: "",
           section: "News",},{
         id: 'social-email',
