@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:rotating_light: [**Aphantasia as functional disconnection**](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00124-X) is out in ***Trends in Cognitive Sciences***!
+:rotating*light: [**Aphantasia as functional disconnection**](<https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00124-X>) is out in \*\*\_Trends in Cognitive Sciences*\*\*!
