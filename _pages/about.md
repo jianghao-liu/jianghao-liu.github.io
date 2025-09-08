@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm postdoc on cognitive neuroscience at <a href="https://parisbraininstitute.org/paris-brain-institute-research-teams/picnic-neuropsychology-and-functional-neuroimaging">Paris brain institute</a>.
+subtitle: I will soon be joining <a href="https://scholar.google.com/citations?user=2Dd5uoIAAAAJ&hl=en">Stanislas Dehaene’s lab</a> at <a href="https://www.unicog.org/">Unicog, NeuroSpin</a>.
 
 profile:
   align: right
@@ -29,9 +29,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 **Welcome! Let me guide you through my research journey.**
 
-I am a cognitive neuroscientist investigating **visual mental imagery** and **aphantasia**, employing advanced neuroimaging techniques such as ultra-high-field 7T fMRI, DTI, and cognitive tasks.
+I am a cognitive neuroscientist investigating **visual mental imagery** and **aphantasia**, employing advanced neuroimaging techniques such as ultra-high-field 7T fMRI, white matter tractography, and cognitive tasks.
 
-In late 2023, I obtained my Ph.D in Cognitive Neuroscience from Sorbonne University after 4 years at **Paris Brain Institute**, under the supervision of [Paolo Bartolomeo](https://parisbraininstitute.org/collaborators/bartolomeo-paolo). My doctoral work mainly focused on 7T fMRI studies of visual mental imagery and also included spatiotemporal dynamics of the interaction between attention and conscious report.
+In late 2023, I obtained my Ph.D in Cognitive Neuroscience from Sorbonne University after 4 years at **Paris Brain Institute**, under the supervision of [Pr. Paolo Bartolomeo](https://parisbraininstitute.org/collaborators/bartolomeo-paolo). My doctoral work mainly focused on 7T fMRI studies of visual mental imagery and also included spatiotemporal dynamics of the interaction between attention and consciousness.
 
 My academic path began with a background in mechanical engineering for many years, which later led me to transition into bioengineering, driven by a fascination for the brain's inner workings.
 
