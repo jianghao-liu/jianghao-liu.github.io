@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:rotating_light: Preprint: [**an attention-based neural model of subjective imagery and aphantasia**](https://osf.io/preprints/psyarxiv/yrkd6_v1): my latest theoretical paper
+New preprint: [**an attention-based neural model of subjective imagery and aphantasia**](https://osf.io/preprints/psyarxiv/yrkd6_v1): my latest theoretical paper
