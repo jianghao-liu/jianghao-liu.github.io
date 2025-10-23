@@ -37,8 +37,8 @@ My academic path began with a background in mechanical engineering for many year
 
 Below, you’ll find my latest updates, [publications](/publications/), ongoing projects, some [Research blogs](/blog/), social media links (some pages are still under construction).
 
-I enjoy discussing with participants of my experiments, artists, philosophers. In 2023, we have held a workshop on [**Synesthesia and imagination**](/_posts/2023-05-24-synesthesiaworkshop.md) in Paris with 25 researchers from various fields including philosophers, musiciens, scientific researchers.
+I enjoy discussing with participants of my experiments, artists, philosophers. In 2023, we have held a workshop on [**Synesthesia and imagination**](/blog/2023/synesthesiaworkshop) in Paris with 25 researchers from various fields including philosophers, musiciens, scientific researchers.
 
-Since 2024, with Christian Sholtz, we co-founded [**IRCA**](/_pages/irca.md) which is an Interdisciplinary Reading Club of Aphantasia. We are looking for potential future speakers and welcome all researchers who may be interested.
+Since 2024, with Christian Sholtz, we co-founded [**IRCA**](/irca/) which is an Interdisciplinary Reading Club of Aphantasia. We are looking for potential future speakers and welcome all researchers who may be interested.
 
 **Feel free to reach out** for any ideas or suggestions—I’d love to connect!

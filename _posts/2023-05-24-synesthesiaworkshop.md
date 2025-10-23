@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Workshop "Immersion et synesthésie : absorption sensorielle et absorption imaginative"
+title: Immersion et synesthesia workshop
 date: 2023-05-24 16:40:16
 description: Immersion et synesthésie workshop
-tags: workshop synesthesia imagination 
+tags: workshop synesthesia imagination
 categories: workshop
 ---
 
