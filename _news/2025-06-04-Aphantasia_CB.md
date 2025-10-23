@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[**Absence of shared representation in the visual cortex challenges unconscious imagery in aphantasia**](https://doi.org/10.1016/j.cub.2025.05.009) is out in **_Current Biology_**!
+[**Absence of shared representation in the visual cortex challenges unconscious imagery in aphantasia**](<https://www.cell.com/current-biology/abstract/S0960-9822(25)00584-6>) is out in **_Current Biology_**!
