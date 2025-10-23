@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2023-05-24-synesthesiaworkshop/";
-          
-        },
-      },{id: "post-probing-the-unimaginable-new-data-help-to-understand-the-nature-of-aphantasia-paris-brain-institute",
+        },{id: "post-probing-the-unimaginable-new-data-help-to-understand-the-nature-of-aphantasia-paris-brain-institute",
         
           title: 'Probing the unimaginable: new data help to understand the nature of aphantasia |... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -57,6 +46,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://parisbraininstitute.org/news/probing-unimaginable-new-data-help-understand-nature-aphantasia", "_blank");
+          
+        },
+      },{id: "post-immersion-et-synesthesia-workshop",
+        
+          title: "Immersion et synesthesia workshop",
+        
+        description: "Immersion et synesthésie workshop",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/synesthesiaworkshop/";
           
         },
       },{id: "post-the-connectional-anatomy-of-visual-mental-imagery",
