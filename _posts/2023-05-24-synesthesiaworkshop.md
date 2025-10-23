@@ -19,23 +19,23 @@ Over two days, the workshop included:
 2. Artistic installations and improvisations.
 3. An experimental concert blending classical and modern compositions.
 
-![feedback1](/assets/img/synesthesia2023/7.jpg)
+<br>
+<img src="/assets/img/synesthesia2023/7.jpg" style="max-width: 100%; height: auto;" alt="feedback1">
+<img src="/assets/img/synesthesia2023/poster.jpg" style="max-width: 100%; height: auto;" alt="poster">
+<img src="/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-1.png" style="max-width: 100%; height: auto;" alt="program1">
+<img src="/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-2.png" style="max-width: 100%; height: auto;" alt="program2">
+<img src="/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-3.png" style="max-width: 100%; height: auto;" alt="program3">
+<img src="/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-4.png" style="max-width: 100%; height: auto;" alt="program4">
+<img src="/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-5.png" style="max-width: 100%; height: auto;" alt="program5">
 
-![poster](/assets/img/synesthesia2023/poster.jpg)
-![program1](/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-1.png)
-![program2](/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-2.png)
-![program3](/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-3.png)
-![program4](/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-4.png)
-![program5](/assets/img/synesthesia2023/Program%20-%20Immersion%20et%20synesthesie-5.png)
+<img src="/assets/img/synesthesia2023/Image_20230509174325.jpg" style="max-width: 100%; height: auto;" alt="Concert">
 
-![Concert](/assets/img/synesthesia2023/Image_20230509174325.jpg)
-
-![feedback1](/assets/img/synesthesia2023/4.jpg)
-![feedback1](/assets/img/synesthesia2023/5.jpg)
-![feedback1](/assets/img/synesthesia2023/3.jpg)
-![feedback1](/assets/img/synesthesia2023/2.jpg)
-![feedback1](/assets/img/synesthesia2023/1.jpg)
-![feedback1](/assets/img/synesthesia2023/6.jpg)
+<img src="/assets/img/synesthesia2023/4.jpg" style="max-width: 100%; height: auto;" alt="feedback1">
+<img src="/assets/img/synesthesia2023/5.jpg" style="max-width: 100%; height: auto;" alt="feedback2">
+<img src="/assets/img/synesthesia2023/3.jpg" style="max-width: 100%; height: auto;" alt="feedback3">
+<img src="/assets/img/synesthesia2023/2.jpg" style="max-width: 100%; height: auto;" alt="feedback4">
+<img src="/assets/img/synesthesia2023/1.jpg" style="max-width: 100%; height: auto;" alt="feedback5">
+<img src="/assets/img/synesthesia2023/6.jpg" style="max-width: 100%; height: auto;" alt="feedback6">
 
 The annoncement can be found [here](https://synesthimersion.sciencesconf.org/)
 
