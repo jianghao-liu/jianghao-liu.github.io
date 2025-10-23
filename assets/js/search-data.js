@@ -148,11 +148,8 @@ ninja.data = [{
           section: "News",},{id: "news-absence-of-shared-representation-in-the-visual-cortex-challenges-unconscious-imagery-in-aphantasia-is-out-in-current-biology",
           title: 'Absence of shared representation in the visual cortex challenges unconscious imagery in aphantasia...',
           description: "",
-          section: "News",},{id: "news-new-preprint-an-attention-based-neural-model-of-subjective-imagery-and-aphantasia-my-first-latest-theoretical-paper",
-          title: 'New preprint: an attention-based neural model of subjective imagery and aphantasia: my first/latest...',
-          description: "",
-          section: "News",},{id: "news-rotating-light-i-won-the-ant-neuro-prize-for-the-best-poster-in-the-workshop-saw-2025-it-was-a-nice-trip-to-coimbra-portugal",
-          title: ':rotating_light: I won the ANT Neuro Prize for the best poster in the...',
+          section: "News",},{id: "news-i-won-the-ant-neuro-prize-for-the-best-poster-in-the-workshop-saw-2025-it-was-a-nice-trip-to-coimbra-portugal",
+          title: 'I won the ANT Neuro Prize for the best poster in the workshop...',
           description: "",
           section: "News",},{
         id: 'social-email',
