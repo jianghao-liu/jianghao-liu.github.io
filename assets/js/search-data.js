@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-probing-the-unimaginable-new-data-help-to-understand-the-nature-of-aphantasia-paris-brain-institute",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2023-05-24-synesthesiaworkshop/";
+          
+        },
+      },{id: "post-probing-the-unimaginable-new-data-help-to-understand-the-nature-of-aphantasia-paris-brain-institute",
         
           title: 'Probing the unimaginable: new data help to understand the nature of aphantasia |... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -137,10 +148,10 @@ ninja.data = [{
           section: "News",},{id: "news-absence-of-shared-representation-in-the-visual-cortex-challenges-unconscious-imagery-in-aphantasia-is-out-in-current-biology",
           title: 'Absence of shared representation in the visual cortex challenges unconscious imagery in aphantasia...',
           description: "",
-          section: "News",},{id: "news-new-preprint-an-attention-based-neural-model-of-subjective-imagery-and-aphantasia-my-latest-theoretical-paper",
-          title: 'New preprint: an attention-based neural model of subjective imagery and aphantasia: my latest...',
+          section: "News",},{id: "news-new-preprint-an-attention-based-neural-model-of-subjective-imagery-and-aphantasia-my-first-latest-theoretical-paper",
+          title: 'New preprint: an attention-based neural model of subjective imagery and aphantasia: my first/latest...',
           description: "",
-          section: "News",},{id: "news-rotating-light-i-won-the-ant-neuro-prize-for-the-best-poster-in-the-workshop-saw-2025-see-u-soon-in-coimbra-portugal",
+          section: "News",},{id: "news-rotating-light-i-won-the-ant-neuro-prize-for-the-best-poster-in-the-workshop-saw-2025-it-was-a-nice-trip-to-coimbra-portugal",
           title: ':rotating_light: I won the ANT Neuro Prize for the best poster in the...',
           description: "",
           section: "News",},{
