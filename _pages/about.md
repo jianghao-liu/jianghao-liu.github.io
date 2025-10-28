@@ -39,6 +39,6 @@ Below, you’ll find my latest updates, [publications](/publications/), ongoing 
 
 I enjoy discussing with participants of my experiments, artists, philosophers. In 2023, we have held a workshop on [Synesthesia and imagination](/blog/2023/synesthesiaworkshop) in Paris with 25 researchers from various fields including philosophers, musiciens, scientific researchers.
 
-Since 2024, with Christian Sholtz, we co-founded [IRCA](/irca/) which is an Interdisciplinary Reading Club of Aphantasia. We are looking for potential future speakers and welcome all researchers who may be interested.
+Since 2024, with Christian Scholz, we co-founded [IRCA](/irca/) which is an Interdisciplinary Reading Club of Aphantasia. We are looking for potential future speakers and welcome all researchers who may be interested.
 
 **Feel free to reach out** for any ideas or suggestions—I’d love to connect!
