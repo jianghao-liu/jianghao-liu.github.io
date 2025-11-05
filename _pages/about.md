@@ -37,7 +37,9 @@ My academic path began with a background in mechanical engineering for many year
 
 Below, you’ll find my latest updates, [publications](/publications/), ongoing projects, some [Research blogs](/blog/), social media links (some pages are still under construction).
 
-I enjoy discussing with participants of my experiments, artists, philosophers. In 2023, we have held a workshop on [Synesthesia and imagination](/blog/2023/synesthesiaworkshop) in Paris with 25 researchers from various fields including philosophers, musiciens, scientific researchers.
+If you have few minutes to evaluate your mental imagery, here is a test that we recently developped (~15 min): https://www.etabbane.fr/experiments/memocrush/ (you need to do it on your phone, not on labtop)
+
+I enjoy discussing with participants of my experiments, artists, philosophers, and more. In 2023, we have held a workshop on [Synesthesia and imagination](/blog/2023/synesthesiaworkshop) in Paris with 25 researchers from various fields including philosophers, musiciens, scientific researchers.
 
 Since 2024, with Christian Scholz, we co-founded [IRCA](/irca/) which is an Interdisciplinary Reading Club of Aphantasia. We are looking for potential future speakers and welcome all researchers who may be interested.
 
