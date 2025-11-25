@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I will soon be joining <a href="https://scholar.google.com/citations?user=2Dd5uoIAAAAJ&hl=en">Stanislas Dehaene’s lab</a> at <a href="https://www.unicog.org/">Unicog, NeuroSpin</a>.
+subtitle: A cognitive neuroscientist working on mental imagery and aphantasia.
 
 profile:
   align: right
