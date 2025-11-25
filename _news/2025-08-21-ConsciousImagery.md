@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint: [**an attention-based neural model of subjective imagery and aphantasia**](https://osf.io/preprints/psyarxiv/yrkd6): my first/latest theoretical paper
+    A theoretical paper: [**A neural model of conscious mental imagery and aphantasia**](https://osf.io/preprints/psyarxiv/yrkd6_v3). This is the first neuro-mechanistic model bridging research on imagery and consciousnes.
