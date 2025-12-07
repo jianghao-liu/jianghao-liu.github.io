@@ -160,8 +160,8 @@ ninja.data = [{
           section: "News",},{id: "news-a-philosophical-blog-are-we-aware-of-neural-activity-in-imagination-in-the-junkyard",
           title: 'A philosophical blog: Are we aware of neural activity in imagination, in The...',
           description: "",
-          section: "News",},{id: "news-recorded-talk-at-consciousness-club-university-college-london-ucl",
-          title: 'Recorded talk at Consciousness Club, University College London (UCL)',
+          section: "News",},{id: "news-a-recent-recorded-talk-about-a-neural-model-of-conscious-imagery-at-consciousness-club-university-college-london",
+          title: 'A recent recorded talk about “a neural model of conscious imagery” at Consciousness...',
           description: "",
           section: "News",},{
         id: 'social-email',
