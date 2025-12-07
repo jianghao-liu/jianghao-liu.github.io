@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-   Recorded talk at [**Consciousness Club**](https://www.youtube.com/watch?v=6HOQ0VfpH6A&t), University College London (UCL)
+Recorded talk at [**Consciousness Club**](https://www.youtube.com/watch?v=6HOQ0VfpH6A&t), University College London (UCL)
