@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Recorded talk at [**Consciousness Club**](https://www.youtube.com/watch?v=6HOQ0VfpH6A&t), University College London (UCL)
+A recent recorded talk about "a neural model of conscious imagery" at [**Consciousness Club (University College London)**](https://www.youtube.com/watch?v=6HOQ0VfpH6A&t).

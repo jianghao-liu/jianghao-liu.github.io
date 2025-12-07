@@ -30,14 +30,13 @@ Here is a list of past sessions:
 (abstract below)
 
 Next speaker: **Edward Silson** (University of Edinburgh)  
-Time: December 4th at 3pm CET  
+Time: December 4th at 3pm CET
 
 Title: Reduced category selectivity – the neural correlates of aphantasia
 
 Abstract
 
 Visual imagery refers to the ability to generate images internally in the absence of a corresponding external stimulus. There are large individual differences in the reported vividness of mental imagery, extending to individuals who report very poor to no voluntary mental imagery – a phenomenon referred to as aphantasia. We compared brain responses during visual imagery between aphantasic participants and controls with typical levels of mental imagery ability. Participants completed functional magnetic resonance imaging (fMRI) scans where they were asked to imagine personally familiar people and places. Results revealed a striking reduction in the selectivity of responses in people- and place-preferring regions of medial parietal cortex (MPC) and ventral temporal cortex (VTC) in aphantasics compared to controls. This reduction was principally driven by a weakening of negative responses to the non-preferred stimulus category. We propose that reduced differentiation between category specific imagery signals may be a neural signature of aphantasia.
-
 
 | #            | Date       | Speaker                    | University                                 | Title                                                                                                    |
 | ------------ | ---------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- | --- |

@@ -29,18 +29,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 **Welcome! Let me guide you through my research journey.**
 
-I am a cognitive neuroscientist investigating **visual mental imagery** and **aphantasia**, employing advanced neuroimaging techniques such as ultra-high-field 7T fMRI, tractography, and cognitive tasks.
+I am a cognitive neuroscientist interested in topics on **mental imagery**, **aphantasia** and **consciousness**.
 
-I obtained my Ph.D in Cognitive Neuroscience from Sorbonne University in late 2023 after 4 years at **Paris Brain Institute**. My doctoral work mainly focused on 7T fMRI studies of visual mental imagery and also included spatiotemporal dynamics of the interaction between attention and consciousness.
+My aim is to understand brain cognitive functions using advanced neuroimaging techniques such as 7T functional MRI, diffusion imaging, human intracranial recording, direct cortical stimulation, magnetoencephalography (MEG), and computational modeling.
 
-My academic path began with a background in mechanical engineering diplomed at Arts et Métiers ParisTech, which later led me to transition into BioMedical engeering, driven by a fascination for the brain's inner workings.
+I have obtained my Ph.D in Cognitive Neuroscience from Sorbonne University in late 2023 after 4 years at [Paris Brain Institute](https://parisbraininstitute.org/paris-brain-institute-research-teams/picnic-neuropsychology-and-functional-neuroimaging). My doctoral work mainly focused on 7T fMRI studies of visual mental imagery, and also included spatiotemporal dynamics of the interaction between attention and consciousness.
 
-Below, you’ll find my latest updates, [publications](/publications/), ongoing projects, some [Research blogs](/blog/), social media links (some pages are still under construction).
+I'm now working with [Stanislas Dehaene](https://scholar.google.com/citations?user=2Dd5uoIAAAAJ&hl=en&oi=ao) at [Collège de France](https://unicog.org) in Paris, pursuing my journey to understand human cognition using ultra-high field MRI (≥ 7 tesla).
 
-If you have few minutes to evaluate your mental imagery, here is a test that we recently developped (~20 min) with the link [here](https://www.etabbane.fr/experiments/memocrush/) (you need to do it on your phone, not on labtop).
+Below, you’ll find my latest updates, recent publications [Google Scholar](https://scholar.google.com/citations?user=yt7plBQAAAAJ&hl=en), some [Research blogs](/blog/), social media links (many pages are still under construction).
 
-Since 2024, I co-founded [IRCA](/irca/) which is Interdisciplinary Reading Club of Aphantasia. We are looking for potential future speakers and welcome all researchers who may be interested. The IRCA and its collaborators are planning to organise a conference on aphantasia in Glasgow, UK, in 2026. Stay tuned!
+Since 2024, I co-founded [IRCA](/irca/) which is "Interdisciplinary Reading Club of Aphantasia". We are looking for potential future speakers and welcome all researchers who may be interested, from fields of neuroscience, psychology, phisolophy of mind etc. The IRCA and its collaborators are planning to organise a conference on _aphantasia_ in Glasgow, UK, in 2026. Stay tuned!
 
-I enjoy discussing with participants of my experiments, artists, philosophers, and more. In 2023, we have held a workshop on [Synesthesia and imagination](/blog/2023/synesthesiaworkshop) in Paris with 25 researchers from various fields including philosophers, musiciens, scientific researchers.
+**Feel free to reach out** for any ideas or suggestions of collaboration —I’d love to connect!
 
-**Feel free to reach out** for any ideas or suggestions—I’d love to connect!
+My academic path began with a background in mechanical engineering diplomed at Arts et Métiers ParisTech, which later transitionned me to BioMedical engeering, driven by a fascination for the brain's inner workings.
+
+I also enjoy discussing with participants of my experiments, artists, philosophers, and more. In 2023, we have held a workshop on [Synesthesia and imagination](/blog/2023/synesthesiaworkshop) in Paris with 25 researchers from various fields including philosophers, musiciens, scientific researchers.
+
+If you have few minutes to evaluate your mental imagery, here is a online test that we recently developped (~20 min) with the link [here](https://www.etabbane.fr/experiments/memocrush/) (you need to do it on your phone, not on labtop).
