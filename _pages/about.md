@@ -39,9 +39,9 @@ I'm now working with [Stanislas Dehaene](https://scholar.google.com/citations?us
 
 Below, you’ll find my latest updates, recent publications [Google Scholar](https://scholar.google.com/citations?user=yt7plBQAAAAJ&hl=en), some [Research blogs](/blog/), social media links (many pages are still under construction).
 
-Recently, i have summarized the work on imagery and aphantasia in a theoretical paper: [A neural model of conscious mental imagery and aphantasia](https://osf.io/preprints/psyarxiv/yrkd6_v3). You can also watch a [recorded talk](https://www.youtube.com/watch?v=6HOQ0VfpH6A&t) and [a blog](https://junkyardofthemind.com/blog/2025/11/2/are-we-aware-of-neural-activity-in-imagination-the-attention-model-of-conscious-imagery-and-aphantasia) about it. This is the first neuro-mechanistic model bridging research on imagery and consciousnes.
+Recently, i have summarized the work on imagery and aphantasia in a theoretical paper: [A neural model of conscious mental imagery and aphantasia](https://www.sciencedirect.com/science/article/pii/S0028393226000382). You can also watch a [recorded talk](https://www.youtube.com/watch?v=6HOQ0VfpH6A&t) and [a blog](https://junkyardofthemind.com/blog/2025/11/2/are-we-aware-of-neural-activity-in-imagination-the-attention-model-of-conscious-imagery-and-aphantasia) about it. This is the first neuro-mechanistic model bridging research on imagery and consciousnes.
 
-Since 2024, I co-founded [IRCA](/irca/) which is "Interdisciplinary Reading Club of Aphantasia". We are looking for potential future speakers and welcome all researchers who may be interested, from fields of neuroscience, psychology, phisolophy of mind etc. The IRCA and its collaborators are planning to organise a conference on _aphantasia_ in Glasgow, UK, in 2026. Stay tuned!
+Since 2024, I co-founded [IRCA](/irca/) which is "Interdisciplinary Reading Club of Aphantasia". We are looking for potential future speakers and welcome all researchers who may be interested, from fields of neuroscience, psychology, phisolophy of mind etc. The IRCA and its collaborators are planning to organise a conference on _aphantasia_ in Glasgow, UK, September 2-4, 2026. Stay tuned for the Call for Abstract!
 
 **Feel free to reach out** for any ideas or suggestions of collaboration —I’d love to connect!
 
