@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are organising an in-person **IRCA conference** in Glasgow (UK) from 2 to 4 September 2026.\*\* Stay tuned for the call for abstracts!
+We are organising an in-person **IRCA conference** in Glasgow (UK) from 2 to 4 September 2026. Stay tuned for the call for abstracts!
