@@ -5,6 +5,52 @@ title: IRCA
 description: Interdisciplinary Reading Club of Aphantasia (IRCA)
 ---
 
+<style>
+.irca-sessions-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 0.95em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.irca-sessions-table thead tr {
+  background-color: #f5f5f5;
+  border-bottom: 2px solid #ddd;
+}
+
+.irca-sessions-table th,
+.irca-sessions-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.irca-sessions-table th {
+  font-weight: 600;
+  color: #333;
+}
+
+.irca-sessions-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.irca-sessions-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+@media (max-width: 768px) {
+  .irca-sessions-table {
+    font-size: 0.85em;
+  }
+  
+  .irca-sessions-table th,
+  .irca-sessions-table td {
+    padding: 8px 10px;
+  }
+}
+</style>
+
 **IRCA** (Interdisciplinary Reading Club of Aphantasia) was co-founded by [Jianghao Liu](https://jianghao-liu.github.io/) (Paris Brain Institute) and [Christian O. Scholz](https://scholar.google.com/citations?user=WdYzuTUAAAAJ&hl=en&oi=sra) (Ruhr-Universität Bochum) in 2024 to advance interdisciplinary studies of aphantasia. The initial motivation was extending our own passion for science and thinking through numerous discussions to a broad circle of researchers.
 
 > _The goal of the Interdisciplinary Reading Club on Aphantasia (IRCA) is to bring together neuroscientists, philosophers, and psychologists at varying career stages (incl. graduate students) to enable a cross-disciplinary exchange on topics related to aphantasia._
@@ -34,26 +80,140 @@ Pauline Trevena (Glasgow Caledonian University)
 Rocco Chiou (Birkbeck, University of London)
 
 **Here is a list of past sessions:**  
-(abstract below)  
-| # | Date | Speaker | University | Title |
-| ------------ | ---------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| 19 | 2026-01-15 | IRCA special session | | Preparation for a IRCA workshop/conference (2) |
-| 18 | 2025-11-19 | IRCA special session | | Preparation for a IRCA workshop/conference (1) |
-| 17 | 2025-10-28 | Jianghao Liu | Paris Brain Institute (France) | A neural model of conscious mental imagery and aphantasia |
-| 16 | 2025-09-29 | Qing Yu | Chinese Academy of Sciences (China) | Delineating perception-, imagery, and illusion-based working memory processes in aphantasia |
-| 15 | 2025-08-27 | Juha Silvanto | University of Macau (China) | Aphantasia as part of a broader spectrum of interoceptive conditions |
-| 14 | 2025-07-23 | Alfredo Spagna | Columbia University (USA) | Neuroscience of visual mental imagery: A new framework supported by a hierarchical architecture |
-| **one-year** | 2025-05-15 | Adam Zeman | University of Edinburgh (UK) | Aphantasia in 9 chapters |
-| 12 | 2025-03-26 | Edward Burns | Swansea University (UK) | Should aphantasia be viewed as a neurodevelopmental condition? |
-| 11 | 2025-02-17 | Maël Delem & Gaën Plancher | University of Lyon (France) | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm |
-| 10 | 2025-01-23 | Lu Teng | Australian National University (Australia) | Does Aphantasia Support Unconscious Imagination? |
-| 9 | 2024-12-18 | Ladislas Nalborczyk | CNRS (France) | Phenomenology, diversity, and neural mechanisms of inner speech |
-| 8 | 2024-11-20 | Andrea Blomkvist | University of Glasgow (UK) | Investigating working memory and episodic memory in aphantasia |
-| 7 | 2024-10-21 | Laura Speed | Radboud University (Netherlands) | Insights into embodied cognition and mental imagery from aphantasia |
-| 6 | 2024-09-19 | Reshanne R. Reeder | University of Liverpool (UK) | Non-visual spatial strategies are effective for maintaining precise information in visual working memory |
-| 5 | 2024-08-29 | Andrew Larner | University College London (UK) | Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations |
-| 2 | 2024-05-20 | Merlin Monzel | University of Bonn (Germany) | Aphantasia and Autobiographical Memory |
-| 1 | 2024-04-26 | Christian & Jianghao | IRCA kick-off | Current state of research on aphantasia |
+(abstract below)
+
+<table class="irca-sessions-table">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Date</th>
+      <th>Speaker</th>
+      <th>University</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>19</td>
+      <td>2026-01-15</td>
+      <td>IRCA special session</td>
+      <td></td>
+      <td>Preparation for a IRCA workshop/conference (2)</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>2025-11-19</td>
+      <td>IRCA special session</td>
+      <td></td>
+      <td>Preparation for a IRCA workshop/conference (1)</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>2025-10-28</td>
+      <td>Jianghao Liu</td>
+      <td>Paris Brain Institute (France)</td>
+      <td>A neural model of conscious mental imagery and aphantasia</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>2025-09-29</td>
+      <td>Qing Yu</td>
+      <td>Chinese Academy of Sciences (China)</td>
+      <td>Delineating perception-, imagery, and illusion-based working memory processes in aphantasia</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>2025-08-27</td>
+      <td>Juha Silvanto</td>
+      <td>University of Macau (China)</td>
+      <td>Aphantasia as part of a broader spectrum of interoceptive conditions</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>2025-07-23</td>
+      <td>Alfredo Spagna</td>
+      <td>Columbia University (USA)</td>
+      <td>Neuroscience of visual mental imagery: A new framework supported by a hierarchical architecture</td>
+    </tr>
+    <tr>
+      <td><strong>one-year</strong></td>
+      <td>2025-05-15</td>
+      <td>Adam Zeman</td>
+      <td>University of Edinburgh (UK)</td>
+      <td>Aphantasia in 9 chapters</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>2025-03-26</td>
+      <td>Edward Burns</td>
+      <td>Swansea University (UK)</td>
+      <td>Should aphantasia be viewed as a neurodevelopmental condition?</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2025-02-17</td>
+      <td>Maël Delem & Gaën Plancher</td>
+      <td>University of Lyon (France)</td>
+      <td>Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2025-01-23</td>
+      <td>Lu Teng</td>
+      <td>Australian National University (Australia)</td>
+      <td>Does Aphantasia Support Unconscious Imagination?</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2024-12-18</td>
+      <td>Ladislas Nalborczyk</td>
+      <td>CNRS (France)</td>
+      <td>Phenomenology, diversity, and neural mechanisms of inner speech</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024-11-20</td>
+      <td>Andrea Blomkvist</td>
+      <td>University of Glasgow (UK)</td>
+      <td>Investigating working memory and episodic memory in aphantasia</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024-10-21</td>
+      <td>Laura Speed</td>
+      <td>Radboud University (Netherlands)</td>
+      <td>Insights into embodied cognition and mental imagery from aphantasia</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024-09-19</td>
+      <td>Reshanne R. Reeder</td>
+      <td>University of Liverpool (UK)</td>
+      <td>Non-visual spatial strategies are effective for maintaining precise information in visual working memory</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024-08-29</td>
+      <td>Andrew Larner</td>
+      <td>University College London (UK)</td>
+      <td>Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024-05-20</td>
+      <td>Merlin Monzel</td>
+      <td>University of Bonn (Germany)</td>
+      <td>Aphantasia and Autobiographical Memory</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>2024-04-26</td>
+      <td>Christian & Jianghao</td>
+      <td>IRCA kick-off</td>
+      <td>Current state of research on aphantasia</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Abstract
 
