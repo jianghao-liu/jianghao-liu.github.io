@@ -36,13 +36,13 @@ Rocco Chiou (Birkbeck, University of London)
 **Here is a list of past sessions:**  
 (abstract below)  
 | # | Date | Speaker | University | Title |
-| ------------ | ---------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- | --- |
-| 19 | 2026-01-15 | IRCA special session | | Preparation for a IRCA workshop/conference (2) |
-| 18 | 2025-11-19 | IRCA special session | | Preparation for a IRCA workshop/conference (1) |
+| ------------ | ---------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 19 | 2026-01-15 | IRCA special session | | Preparation for an IRCA workshop/conference (2) |
+| 18 | 2025-11-19 | IRCA special session | | Preparation for an IRCA workshop/conference (1) |
 | 17 | 2025-10-28 | Jianghao Liu | Paris Brain Institute (France) | A neural model of conscious mental imagery and aphantasia |
 | 16 | 2025-09-29 | Qing Yu | Chinese Academy of Sciences (China) | Delineating perception-, imagery, and illusion-based working memory processes in aphantasia |
-| 15 | 2025-08-27 | Juha Silvanto | University of Macau (China) | Aphantasia as part of a broader spectrum of interoceptive conditions | |
-| 14 | 2025-07-23 | Alfredo Spagna | Columbia University (USA) | Neuroscience of visual mental imagery: A new framework supported by a hierarchical architecture | |
+| 15 | 2025-08-27 | Juha Silvanto | University of Macau (China) | Aphantasia as part of a broader spectrum of interoceptive conditions |
+| 14 | 2025-07-23 | Alfredo Spagna | Columbia University (USA) | Neuroscience of visual mental imagery: A new framework supported by a hierarchical architecture |
 | **one-year** | 2025-05-15 | Adam Zeman | University of Edinburgh (UK) | Aphantasia in 9 chapters |
 | 12 | 2025-03-26 | Edward Burns | Swansea University (UK) | Should aphantasia be viewed as a neurodevelopmental condition? |
 | 11 | 2025-02-17 | Maël Delem & Gaën Plancher | University of Lyon (France) | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm |
