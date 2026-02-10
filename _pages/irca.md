@@ -37,8 +37,8 @@ Rocco Chiou (Birkbeck, University of London)
 (abstract below)  
 | # | Date | Speaker | University | Title |
 | ------------ | ---------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| 19 | 2026-01-15 | IRCA special session | | Preparation for an IRCA workshop/conference (2) |
-| 18 | 2025-11-19 | IRCA special session | | Preparation for an IRCA workshop/conference (1) |
+| 19 | 2026-01-15 | IRCA special session | | Preparation for a IRCA workshop/conference (2) |
+| 18 | 2025-11-19 | IRCA special session | | Preparation for a IRCA workshop/conference (1) |
 | 17 | 2025-10-28 | Jianghao Liu | Paris Brain Institute (France) | A neural model of conscious mental imagery and aphantasia |
 | 16 | 2025-09-29 | Qing Yu | Chinese Academy of Sciences (China) | Delineating perception-, imagery, and illusion-based working memory processes in aphantasia |
 | 15 | 2025-08-27 | Juha Silvanto | University of Macau (China) | Aphantasia as part of a broader spectrum of interoceptive conditions |
