@@ -17,8 +17,10 @@ Sessions are not recorded in order to encourage direct discussion with the speak
 
 :rotating_light: We’re currently looking for speakers and exploring ideas for future workshops. If you have any suggestions, please don’t hesitate to reach out — we especially encourage students to share their ideas!
 
-Next speaker: **Edward Silson** (University of Edinburgh)  
-Time: **December 4th at 3pm CET**
+We are organising an IRCA conference **in Glasgow (UK) from 2 to 4 September 2026.** Stay tuned for the call for abstracts!
+
+Next speakers: **Edward Silson** (University of Edinburgh)  
+Time: **December 4th at 3pm CET (To be reschedured)**
 
 Title: **Reduced category selectivity – the neural correlates of aphantasia**
 
@@ -26,35 +28,32 @@ Title: **Reduced category selectivity – the neural correlates of aphantasia**
 
 Visual imagery refers to the ability to generate images internally in the absence of a corresponding external stimulus. There are large individual differences in the reported vividness of mental imagery, extending to individuals who report very poor to no voluntary mental imagery – a phenomenon referred to as aphantasia. We compared brain responses during visual imagery between aphantasic participants and controls with typical levels of mental imagery ability. Participants completed functional magnetic resonance imaging (fMRI) scans where they were asked to imagine personally familiar people and places. Results revealed a striking reduction in the selectivity of responses in people- and place-preferring regions of medial parietal cortex (MPC) and ventral temporal cortex (VTC) in aphantasics compared to controls. This reduction was principally driven by a weakening of negative responses to the non-preferred stimulus category. We propose that reduced differentiation between category specific imagery signals may be a neural signature of aphantasia.
 
-Here is a list of past sessions:
-(abstract below)
+**To be schedured:**  
+Giulia Cabbai (University College London)  
+Pauline Trevena (Glasgow Caledonian University)  
+Rocco Chiou (Birkbeck, University of London)
 
-Next speaker: **Edward Silson** (University of Edinburgh)  
-Time: December 4th at 3pm CET
-
-Title: Reduced category selectivity – the neural correlates of aphantasia
-
-Abstract
-
-Visual imagery refers to the ability to generate images internally in the absence of a corresponding external stimulus. There are large individual differences in the reported vividness of mental imagery, extending to individuals who report very poor to no voluntary mental imagery – a phenomenon referred to as aphantasia. We compared brain responses during visual imagery between aphantasic participants and controls with typical levels of mental imagery ability. Participants completed functional magnetic resonance imaging (fMRI) scans where they were asked to imagine personally familiar people and places. Results revealed a striking reduction in the selectivity of responses in people- and place-preferring regions of medial parietal cortex (MPC) and ventral temporal cortex (VTC) in aphantasics compared to controls. This reduction was principally driven by a weakening of negative responses to the non-preferred stimulus category. We propose that reduced differentiation between category specific imagery signals may be a neural signature of aphantasia.
-
-| #            | Date       | Speaker                    | University                                 | Title                                                                                                    |
+**Here is a list of past sessions:**  
+(abstract below)  
+| # | Date | Speaker | University | Title |
 | ------------ | ---------- | -------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- | --- |
-| 17           | 2025-10-28 | Jianghao Liu               | Paris Brain Institute (France)             | A neural model of conscious mental imagery and aphantasia                                                |
-| 16           | 2025-09-29 | Qing Yu                    | Chinese Academy of Sciences (China)        | Delineating perception-, imagery, and illusion-based working memory processes in aphantasia              |
-| 15           | 2025-08-27 | Juha Silvanto              | University of Macau (China)                | Aphantasia as part of a broader spectrum of interoceptive conditions                                     |     |
-| 14           | 2025-07-23 | Alfredo Spagna             | Columbia University (USA)                  | Neuroscience of visual mental imagery: A new framework supported by a hierarchical architecture          |     |
-| **one-year** | 2025-05-15 | Adam Zeman                 | University of Edinburgh (UK)               | Aphantasia in 9 chapters                                                                                 |
-| 12           | 2025-03-26 | Edward Burns               | Swansea University (UK)                    | Should aphantasia be viewed as a neurodevelopmental condition?                                           |
-| 11           | 2025-02-17 | Maël Delem & Gaën Plancher | University of Lyon (France)                | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm           |
-| 10           | 2025-01-23 | Lu Teng                    | Australian National University (Australia) | Does Aphantasia Support Unconscious Imagination?                                                         |
-| 9            | 2024-12-18 | Ladislas Nalborczyk        | CNRS (France)                              | Phenomenology, diversity, and neural mechanisms of inner speech                                          |
-| 8            | 2024-11-20 | Andrea Blomkvist           | University of Glasgow (UK)                 | Investigating working memory and episodic memory in aphantasia                                           |
-| 7            | 2024-10-21 | Laura Speed                | Radboud University (Netherlands)           | Insights into embodied cognition and mental imagery from aphantasia                                      |
-| 6            | 2024-09-19 | Reshanne R. Reeder         | University of Liverpool (UK)               | Non-visual spatial strategies are effective for maintaining precise information in visual working memory |
-| 5            | 2024-08-29 | Andrew Larner              | University College London (UK)             | Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations                  |
-| 2            | 2024-05-20 | Merlin Monzel              | University of Bonn (Germany)               | Aphantasia and Autobiographical Memory                                                                   |
-| 1            | 2024-04-26 | Christian & Jianghao       | IRCA kick-off                              | Current state of research on aphantasia                                                                  |
+| 19 | 2026-01-15 | IRCA special session | | Preparation for a IRCA workshop/conference (2) |
+| 18 | 2025-11-19 | IRCA special session | | Preparation for a IRCA workshop/conference (1) |
+| 17 | 2025-10-28 | Jianghao Liu | Paris Brain Institute (France) | A neural model of conscious mental imagery and aphantasia |
+| 16 | 2025-09-29 | Qing Yu | Chinese Academy of Sciences (China) | Delineating perception-, imagery, and illusion-based working memory processes in aphantasia |
+| 15 | 2025-08-27 | Juha Silvanto | University of Macau (China) | Aphantasia as part of a broader spectrum of interoceptive conditions | |
+| 14 | 2025-07-23 | Alfredo Spagna | Columbia University (USA) | Neuroscience of visual mental imagery: A new framework supported by a hierarchical architecture | |
+| **one-year** | 2025-05-15 | Adam Zeman | University of Edinburgh (UK) | Aphantasia in 9 chapters |
+| 12 | 2025-03-26 | Edward Burns | Swansea University (UK) | Should aphantasia be viewed as a neurodevelopmental condition? |
+| 11 | 2025-02-17 | Maël Delem & Gaën Plancher | University of Lyon (France) | Are there unconscious visual images in aphantasia? Development of an implicit priming paradigm |
+| 10 | 2025-01-23 | Lu Teng | Australian National University (Australia) | Does Aphantasia Support Unconscious Imagination? |
+| 9 | 2024-12-18 | Ladislas Nalborczyk | CNRS (France) | Phenomenology, diversity, and neural mechanisms of inner speech |
+| 8 | 2024-11-20 | Andrea Blomkvist | University of Glasgow (UK) | Investigating working memory and episodic memory in aphantasia |
+| 7 | 2024-10-21 | Laura Speed | Radboud University (Netherlands) | Insights into embodied cognition and mental imagery from aphantasia |
+| 6 | 2024-09-19 | Reshanne R. Reeder | University of Liverpool (UK) | Non-visual spatial strategies are effective for maintaining precise information in visual working memory |
+| 5 | 2024-08-29 | Andrew Larner | University College London (UK) | Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations |
+| 2 | 2024-05-20 | Merlin Monzel | University of Bonn (Germany) | Aphantasia and Autobiographical Memory |
+| 1 | 2024-04-26 | Christian & Jianghao | IRCA kick-off | Current state of research on aphantasia |
 
 ## Abstract
 
