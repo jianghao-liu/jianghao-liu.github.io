@@ -55,15 +55,18 @@ description: Interdisciplinary Reading Club of Aphantasia (IRCA)
 
 > _The goal of the Interdisciplinary Reading Club on Aphantasia (IRCA) is to bring together neuroscientists, philosophers, and psychologists at varying career stages (incl. graduate students) to enable a cross-disciplinary exchange on topics related to aphantasia._
 
-We host _monthly_ online meetings where researchers from diverse fields—including neuroscience, psychology, and philosophy—discuss recent findings, share methodologies, and explore new directions in aphantasia research, and related topics like mental imagery, consciousness and mental health.
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src= "/assets/img/logo-IRCA.svg" alt="Logo" width="200">
+  <p>We host _monthly_ online meetings where researchers from diverse fields—including neuroscience, psychology, and philosophy—discuss recent findings, share methodologies, and explore new directions in aphantasia research, and related topics like mental imagery, consciousness and mental health.</p>
+</div>
 
 > _We believe that such interdisciplinary discussions are vital to advancing the science of consciousness and revealing the deeper nature of human cognition._
 
 Sessions are not recorded to encourage open discussion with the speaker. If you conduct scientific research on aphantasia or related fields and would like to join future sessions, please contact us at jianghaolouisliu@gmail.com or c.o.scholzzz@gmail.com.
 
-:rotating_light: We’re currently looking for speakers and exploring ideas for future workshops. If you have any suggestions, please don’t hesitate to reach out — we especially encourage students to share their ideas!
+We’re currently looking for speakers and exploring ideas for future workshops. If you have any suggestions, please don’t hesitate to reach out — we especially encourage students to share their ideas!
 
-We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026. There is the link for [_Call for Abstract_](https://sites.google.com/view/irca-conference-2026/call-for-abstracts?authuser=0), submission before **17/04/2026**.
+:rotating*light: We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026. There is the link for [\_Call for Abstract*](https://sites.google.com/view/irca-conference-2026/call-for-abstracts?authuser=0), submission before **17/04/2026**.
 
 Next speakers: **Edward Silson** (University of Edinburgh)  
 Time: **February the 26th at 3pm (Central Europe Time/Paris)**
