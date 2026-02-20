@@ -43,7 +43,7 @@ description: Interdisciplinary Reading Club of Aphantasia (IRCA)
   .irca-sessions-table {
     font-size: 0.85em;
   }
-  
+
   .irca-sessions-table th,
   .irca-sessions-table td {
     padding: 8px 10px;
@@ -59,25 +59,24 @@ We host _monthly_ online meetings where researchers from diverse fields—includ
 
 > _We believe that such interdisciplinary discussions are vital to advancing the science of consciousness and revealing the deeper nature of human cognition._
 
-Sessions are not recorded in order to encourage direct discussion with the speaker. If you want to join future sessions, feel free to send a mail to c.o.scholzzz@gmail.com or jianghaolouisliu@gmail.com
+Sessions are not recorded to encourage open discussion with the speaker. If you conduct scientific research on aphantasia or related fields and would like to join future sessions, please contact us at jianghaolouisliu@gmail.com or c.o.scholzzz@gmail.com.
 
 :rotating_light: We’re currently looking for speakers and exploring ideas for future workshops. If you have any suggestions, please don’t hesitate to reach out — we especially encourage students to share their ideas!
 
-We are organising an IRCA conference **in Glasgow (UK) from 2 to 4 September 2026.** Stay tuned for the call for abstracts!
+We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026. There is the link for [_Call for Abstract_](https://sites.google.com/view/irca-conference-2026/call-for-abstracts?authuser=0), submission before **17/04/2026**.
 
 Next speakers: **Edward Silson** (University of Edinburgh)  
-Time: **December 4th at 3pm CET (To be reschedured)**
+Time: **February the 26th at 3pm (Central Europe Time/Paris)**
 
 Title: **Reduced category selectivity – the neural correlates of aphantasia**
-
 **Abstract**
+Visual imagery refers to the ability to generate images internally in the absence of a corresponding external stimulus. There are large individual differences in the reported vividness of mental imagery, extending to individuals who report very poor to no voluntary mental imagery – a phenomenon referred to as aphantasia. We compared brain responses during visual imagery between aphantasic participants and controls with typical levels of mental imagery ability. Participants completed functional magnetic resonance imaging (fMRI) scans where they were asked to imagine personally familiar people and places. Results revealed a striking reduction in the selectivity of responses in people- and place-preferring regions of medial parietal cortex (MPC) and ventral temporal cortex (VTC) in aphantasics compared to controls. We propose that reduced differentiation between category specific imagery signals may be a neural signature of aphantasia.
 
-Visual imagery refers to the ability to generate images internally in the absence of a corresponding external stimulus. There are large individual differences in the reported vividness of mental imagery, extending to individuals who report very poor to no voluntary mental imagery – a phenomenon referred to as aphantasia. We compared brain responses during visual imagery between aphantasic participants and controls with typical levels of mental imagery ability. Participants completed functional magnetic resonance imaging (fMRI) scans where they were asked to imagine personally familiar people and places. Results revealed a striking reduction in the selectivity of responses in people- and place-preferring regions of medial parietal cortex (MPC) and ventral temporal cortex (VTC) in aphantasics compared to controls. This reduction was principally driven by a weakening of negative responses to the non-preferred stimulus category. We propose that reduced differentiation between category specific imagery signals may be a neural signature of aphantasia.
-
-**To be schedured:**  
-Giulia Cabbai (University College London)  
-Pauline Trevena (Glasgow Caledonian University)  
-Rocco Chiou (Birkbeck, University of London)
+**Schedured future sessions:**  
+Derek H. Arnold (University of Queensland): March 10  
+Rocco Chiou (Birkbeck, University of London): March 26  
+Pauline Trevena (University of Glasgow): April 14  
+Wilma Bainbridge (University of Chicago): April 28
 
 **Here is a list of past sessions:**  
 (abstract below)
@@ -94,14 +93,14 @@ Rocco Chiou (Birkbeck, University of London)
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>###</td>
       <td>2026-01-15</td>
       <td>IRCA special session</td>
       <td></td>
       <td>Preparation for a IRCA workshop/conference (2)</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>###</td>
       <td>2025-11-19</td>
       <td>IRCA special session</td>
       <td></td>
@@ -208,7 +207,7 @@ Rocco Chiou (Birkbeck, University of London)
     <tr>
       <td>1</td>
       <td>2024-04-26</td>
-      <td>Christian & Jianghao</td>
+      <td>Jianghao & Christian</td>
       <td>IRCA kick-off</td>
       <td>Current state of research on aphantasia</td>
     </tr>
