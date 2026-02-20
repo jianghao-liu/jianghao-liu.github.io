@@ -69,10 +69,11 @@ We’re currently looking for speakers and exploring ideas for future workshops.
 :rotating*light: We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026. There is the link for [\_Call for Abstract*](https://sites.google.com/view/irca-conference-2026/call-for-abstracts?authuser=0), submission before **17/04/2026**.
 
 Next speakers: **Edward Silson** (University of Edinburgh)  
-Time: **February the 26th at 3pm (Central Europe Time/Paris)**
+Time: **February the 26th at 3pm (Central Europe Time/Paris)**  
 
-Title: **Reduced category selectivity – the neural correlates of aphantasia**
-**Abstract**
+Title: **Reduced category selectivity – the neural correlates of aphantasia**  
+
+**Abstract**  
 Visual imagery refers to the ability to generate images internally in the absence of a corresponding external stimulus. There are large individual differences in the reported vividness of mental imagery, extending to individuals who report very poor to no voluntary mental imagery – a phenomenon referred to as aphantasia. We compared brain responses during visual imagery between aphantasic participants and controls with typical levels of mental imagery ability. Participants completed functional magnetic resonance imaging (fMRI) scans where they were asked to imagine personally familiar people and places. Results revealed a striking reduction in the selectivity of responses in people- and place-preferring regions of medial parietal cortex (MPC) and ventral temporal cortex (VTC) in aphantasics compared to controls. We propose that reduced differentiation between category specific imagery signals may be a neural signature of aphantasia.
 
 **Schedured future sessions:**  
