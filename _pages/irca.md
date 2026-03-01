@@ -68,16 +68,14 @@ We’re currently looking for speakers and exploring ideas for future workshops.
 
 :rotating*light: We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026. There is the link for [\_Call for Abstract*](https://sites.google.com/view/irca-conference-2026/call-for-abstracts?authuser=0), submission before **17/04/2026**.
 
-Next speakers: **Edward Silson** (University of Edinburgh)  
-Time: **February the 26th at 3pm (Central Europe Time/Paris)**  
-
-Title: **Reduced category selectivity – the neural correlates of aphantasia**  
+Next speakers: **Derek H. Arnold** (University of Queensland)  
+Time: **March the 10th at 11am (Central Europe Time/Paris)**  
+Title: **The hopeless quest for a reliable objective metric of visual imagery**
 
 **Abstract**  
-Visual imagery refers to the ability to generate images internally in the absence of a corresponding external stimulus. There are large individual differences in the reported vividness of mental imagery, extending to individuals who report very poor to no voluntary mental imagery – a phenomenon referred to as aphantasia. We compared brain responses during visual imagery between aphantasic participants and controls with typical levels of mental imagery ability. Participants completed functional magnetic resonance imaging (fMRI) scans where they were asked to imagine personally familiar people and places. Results revealed a striking reduction in the selectivity of responses in people- and place-preferring regions of medial parietal cortex (MPC) and ventral temporal cortex (VTC) in aphantasics compared to controls. We propose that reduced differentiation between category specific imagery signals may be a neural signature of aphantasia.
+Recent years have seen a groundswell of interest in individual differences in visual imagery – inclusive of Aphantasia, which describes an inability to visualise. Researchers are mindful of the shortcomings of popular self-report measures of the vividness of imagery, as we cannot be sure two people will similarly rate equally vivid imagined experiences. Consequently, there is a great desire to devise objective protocols to accurately measure people’s visualisations. There have been complications from misunderstandings as to what an objective measure is, and attempts to validate protocols have primarily relied on relating these to existing self-report instruments – precluding any possibility of identifying a measure that is superior to self-reports. Work in my lab suggests some of the proposed objective metrics (imagery priming of semantics, of binocular rivalry, and of pupil dilations) are weak or unreliable measures of individual differences in the vividness of imagery. I will argue that at the group level, flawed measures of imagery vividness coupled with diverse cognitive tasks and brain imaging have established beyond reasonable doubt that there are vast differences in people’s experiences of imagery, that are related to differences in the functional connectivity of human brains. But we do not have a sufficiently accurate tool to definitively measure a given individual’s imaginative capacities – so when I assert that I am a Visual Aphant, you should rightly regard that claim with due scepticism. This situation should be familiar to Psychologists, who do not have definitive diagnostic tests for a host of psychological conditions. I will advocate for an approach, grounded in Psychophysics, where people’s subjective self-reports are regarded as invaluable data to guide the formation of testable hypotheses and models of decision processes. We should continue to strive for improved metrics of imagined sensations, but be cautious not to mis-represent the nature or the precision of the tools that are available to us.
 
 **Schedured future sessions:**  
-Derek H. Arnold (University of Queensland): March 10  
 Rocco Chiou (Birkbeck, University of London): March 26  
 Pauline Trevena (University of Glasgow): April 14  
 Wilma Bainbridge (University of Chicago): April 28
@@ -96,6 +94,13 @@ Wilma Bainbridge (University of Chicago): April 28
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>18</td>
+      <td>2026-02-26</td>
+      <td>Edward Silson</td>
+      <td>University of Edinburgh (UK)</td>
+      <td>Reduced category selectivity – the neural correlates of aphantasia</td>
+    </tr>
     <tr>
       <td>###</td>
       <td>2026-01-15</td>
@@ -219,6 +224,10 @@ Wilma Bainbridge (University of Chicago): April 28
 </table>
 
 ## Abstract
+
+**18th: Edward Silson: Reduced category selectivity – the neural correlates of aphantasia**
+
+Visual imagery refers to the ability to generate images internally in the absence of a corresponding external stimulus. There are large individual differences in the reported vividness of mental imagery, extending to individuals who report very poor to no voluntary mental imagery – a phenomenon referred to as aphantasia. We compared brain responses during visual imagery between aphantasic participants and controls with typical levels of mental imagery ability. Participants completed functional magnetic resonance imaging (fMRI) scans where they were asked to imagine personally familiar people and places. Results revealed a striking reduction in the selectivity of responses in people- and place-preferring regions of medial parietal cortex (MPC) and ventral temporal cortex (VTC) in aphantasics compared to controls. We propose that reduced differentiation between category specific imagery signals may be a neural signature of aphantasia.
 
 **17th: Jianghao Liu: A neural model of conscious mental imagery and aphantasia**
 

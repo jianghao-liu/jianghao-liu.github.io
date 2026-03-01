@@ -37,6 +37,8 @@ I have obtained my Ph.D in Cognitive Neuroscience from Sorbonne University in la
 
 I'm now working with [Stanislas Dehaene](https://scholar.google.com/citations?user=2Dd5uoIAAAAJ&hl=en&oi=ao) at [Collège de France](https://unicog.org) in Paris, pursuing my journey to understand human cognition using ultra-high field MRI (≥ 7 tesla).
 
+You can download my full CV [here](assets/pdf/CV_Liu_Jianghao.pdf) and my recent talk slides [here](assets/pdf/Liu_Neural_model_of_conscious_mental_imagery_202602_slides.pdf).
+
 Below, you’ll find my latest updates, recent publications [Google Scholar](https://scholar.google.com/citations?user=yt7plBQAAAAJ&hl=en), some [Research blogs](/blog/), social media links (many pages are still under construction).
 
 Recently, i have summarized the work on imagery and aphantasia in a theoretical paper: [A neural model of conscious mental imagery and aphantasia](https://www.sciencedirect.com/science/article/pii/S0028393226000382). You can also watch a [recorded talk](https://www.youtube.com/watch?v=6HOQ0VfpH6A&t) and [a blog](https://junkyardofthemind.com/blog/2025/11/2/are-we-aware-of-neural-activity-in-imagination-the-attention-model-of-conscious-imagery-and-aphantasia) about it. This is the first neuro-mechanistic model bridging research on imagery and consciousness.
