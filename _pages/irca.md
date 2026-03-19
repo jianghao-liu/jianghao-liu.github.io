@@ -66,19 +66,20 @@ Sessions are not recorded to encourage open discussion with the speaker. If you 
 
 We’re currently looking for speakers and exploring ideas for future workshops. If you have any suggestions, please don’t hesitate to reach out — we especially encourage students to share their ideas!
 
-:rotating*light: We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026. There is the link for [\_Call for Abstract*](https://sites.google.com/view/irca-conference-2026/call-for-abstracts?authuser=0), submission before **17/04/2026**.
+:rotating\*light: We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026. There is the link for [Call for Abstract](https://sites.google.com/view/irca-conference-2026/call-for-abstracts?authuser=0), submission before **17/04/2026**.
 
-Next speakers: **Derek H. Arnold** (University of Queensland)  
-Time: **March the 10th at 11am (Central Europe Time/Paris)**  
-Title: **The hopeless quest for a reliable objective metric of visual imagery**
+Next speakers: **Rocco Chiou** (Birkbeck, University of London)  
+Time: **March the 26th at 3pm (Central Europe Time/Paris)**  
+Title: **What can cortical topography reveal about human cognition?**
 
 **Abstract**  
-Recent years have seen a groundswell of interest in individual differences in visual imagery – inclusive of Aphantasia, which describes an inability to visualise. Researchers are mindful of the shortcomings of popular self-report measures of the vividness of imagery, as we cannot be sure two people will similarly rate equally vivid imagined experiences. Consequently, there is a great desire to devise objective protocols to accurately measure people’s visualisations. There have been complications from misunderstandings as to what an objective measure is, and attempts to validate protocols have primarily relied on relating these to existing self-report instruments – precluding any possibility of identifying a measure that is superior to self-reports. Work in my lab suggests some of the proposed objective metrics (imagery priming of semantics, of binocular rivalry, and of pupil dilations) are weak or unreliable measures of individual differences in the vividness of imagery. I will argue that at the group level, flawed measures of imagery vividness coupled with diverse cognitive tasks and brain imaging have established beyond reasonable doubt that there are vast differences in people’s experiences of imagery, that are related to differences in the functional connectivity of human brains. But we do not have a sufficiently accurate tool to definitively measure a given individual’s imaginative capacities – so when I assert that I am a Visual Aphant, you should rightly regard that claim with due scepticism. This situation should be familiar to Psychologists, who do not have definitive diagnostic tests for a host of psychological conditions. I will advocate for an approach, grounded in Psychophysics, where people’s subjective self-reports are regarded as invaluable data to guide the formation of testable hypotheses and models of decision processes. We should continue to strive for improved metrics of imagined sensations, but be cautious not to mis-represent the nature or the precision of the tools that are available to us.
+What can cortical topography reveal about human cognition? In this talk, I will show that large-scale cortical organisation provides a principled framework for understanding higher-order cognition by focusing on four core topographical features. First, regions positioned between functionally distinct cortical zones often exhibit a “betweenness” property: topographically intermediate areas tend to express functional hybrids, integrating features of adjacent systems (for example, regions between visual- and auditory-specific cortex supporting multisensory representations that blend visual and auditory features). Second, transmodal territories (e.g., the middle section of the inferior parietal gyrus) are physically more distant from primary unimodal anchors (e.g., V1, A1, S1), and this increased geodesic distance provides the anatomical space that enables cross-modal convergence, such that greater distance from unimodal cortex predicts greater transmodality. Third, this hierarchical arrangement maps onto representational abstractness: unimodal cortex encodes concrete, stimulus-bound information, whereas progressively more transmodal regions encode increasingly abstract, context-level features of tasks, with gradient peaks supporting the most abstract aspects of cognition. Fourth, transmodal regions exhibit contextual flexibility, dynamically shifting their connectivity profiles according to task demands and integrating distributed information across networks. Drawing on evidence from studies of cognitive control, semantic knowledge, and multisensory mental imagery, I will present evidence about how these four principles – betweenness, distance, abstractness, and flexibility – jointly explain why association cortices, including the angular gyrus, anterior temporal cortex, and dorsomedial prefrontal cortex, play a central role in memory-guided cognition and stimulus-independent thought. Together, a topographical perspective offers a unifying account linking macroscale cortical geometry to the neural basis of high-order cognition.
 
-**Schedured future sessions:**  
-Rocco Chiou (Birkbeck, University of London): March 26  
-Pauline Trevena (University of Glasgow): April 14  
-Wilma Bainbridge (University of Chicago): April 28
+**Schedured future sessions:**
+
+- Pauline Trevena (University of Glasgow): April 14
+- Wilma Bainbridge (University of Chicago): April 28
+- Special guest for the 2nd IRCA anniversary talk: End of May
 
 **Here is a list of past sessions:**  
 (abstract below)
@@ -94,6 +95,13 @@ Wilma Bainbridge (University of Chicago): April 28
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>19</td>
+      <td>2026-03-10</td>
+      <td>Derek H. Arnold</td>
+      <td>University of Queensland (Australia)</td>
+      <td>The hopeless quest for a reliable objective metric of visual imagery</td>
+    </tr>
     <tr>
       <td>18</td>
       <td>2026-02-26</td>
@@ -224,6 +232,10 @@ Wilma Bainbridge (University of Chicago): April 28
 </table>
 
 ## Abstract
+
+**19th: Derek H. Arnold: The hopeless quest for a reliable objective metric of visual imagery**
+
+Recent years have seen a groundswell of interest in individual differences in visual imagery – inclusive of Aphantasia, which describes an inability to visualise. Researchers are mindful of the shortcomings of popular self-report measures of the vividness of imagery, as we cannot be sure two people will similarly rate equally vivid imagined experiences. Consequently, there is a great desire to devise objective protocols to accurately measure people’s visualisations. There have been complications from misunderstandings as to what an objective measure is, and attempts to validate protocols have primarily relied on relating these to existing self-report instruments – precluding any possibility of identifying a measure that is superior to self-reports. Work in my lab suggests some of the proposed objective metrics (imagery priming of semantics, of binocular rivalry, and of pupil dilations) are weak or unreliable measures of individual differences in the vividness of imagery. I will argue that at the group level, flawed measures of imagery vividness coupled with diverse cognitive tasks and brain imaging have established beyond reasonable doubt that there are vast differences in people’s experiences of imagery, that are related to differences in the functional connectivity of human brains. But we do not have a sufficiently accurate tool to definitively measure a given individual’s imaginative capacities – so when I assert that I am a Visual Aphant, you should rightly regard that claim with due scepticism. This situation should be familiar to Psychologists, who do not have definitive diagnostic tests for a host of psychological conditions. I will advocate for an approach, grounded in Psychophysics, where people’s subjective self-reports are regarded as invaluable data to guide the formation of testable hypotheses and models of decision processes. We should continue to strive for improved metrics of imagined sensations, but be cautious not to mis-represent the nature or the precision of the tools that are available to us.
 
 **18th: Edward Silson: Reduced category selectivity – the neural correlates of aphantasia**
 
