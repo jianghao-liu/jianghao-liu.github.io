@@ -175,6 +175,9 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-that-i-have-been-nominated-as-an-ins-junior-fellow-international-neuropsychological-symposium-looking-forward-to-seeing-you-in-crete-in-june",
           title: 'Excited to share that I have been nominated as an INS Junior Fellow...',
           description: "",
+          section: "News",},{id: "news-new-paper-out-in-elife-congenital-aphantasia-reveals-frontotemporal-and-cingulate-structural-alterations-underlying-conscious-access-to-imagery",
+          title: 'New paper out in eLife! Congenital aphantasia reveals frontotemporal and cingulate structural alterations...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
