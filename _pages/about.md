@@ -31,11 +31,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 I am a cognitive neuroscientist interested in topics on **mental imagery**, **aphantasia** and **consciousness**.
 
-My aim is to understand brain cognitive functions using advanced neuroimaging techniques such as 7T functional MRI, diffusion imaging, human intracranial recording, direct cortical stimulation, magnetoencephalography (MEG), and computational modeling.
+My aim is to understand brain cognitive functions using advanced neuroimaging techniques such as 7T functional MRI, diffusion imaging, human intracranial recording, direct cortical stimulation, MEG, and computational modeling.
 
 I have obtained my Ph.D in Cognitive Neuroscience from Sorbonne University in late 2023 after 4 years at [Paris Brain Institute](https://parisbraininstitute.org/paris-brain-institute-research-teams/picnic-neuropsychology-and-functional-neuroimaging). My doctoral work mainly focused on 7T fMRI studies of visual mental imagery, and also included spatiotemporal dynamics of the interaction between attention and consciousness.
 
-I'm now working with [Stanislas Dehaene](https://scholar.google.com/citations?user=2Dd5uoIAAAAJ&hl=en&oi=ao) at [Collège de France](https://unicog.org) in Paris, pursuing my journey to understand human cognition using ultra-high field MRI (≥ 7 tesla).
+I'm now working with [Stanislas Dehaene](https://scholar.google.com/citations?user=2Dd5uoIAAAAJ&hl=en&oi=ao) at [Collège de France/Neurospin](https://unicog.org) in Paris, pursuing my journey to understand human cognition using ultra-high field MRI (≥ 7 tesla).
 
 You can download my full CV [here](assets/pdf/CV_Liu_Jianghao.pdf) and my recent talk slides [here](assets/pdf/Liu_Neural_model_of_conscious_mental_imagery_202602_slides.pdf).
 
@@ -43,7 +43,7 @@ Below, you’ll find my latest updates, recent publications [Google Scholar](htt
 
 Recently, i have summarized the work on imagery and aphantasia in a theoretical paper: [A neural model of conscious mental imagery and aphantasia](https://www.sciencedirect.com/science/article/pii/S0028393226000382). You can also watch a [recorded talk](https://www.youtube.com/watch?v=6HOQ0VfpH6A&t) and [a blog](https://junkyardofthemind.com/blog/2025/11/2/are-we-aware-of-neural-activity-in-imagination-the-attention-model-of-conscious-imagery-and-aphantasia) about it. This is the first neuro-mechanistic model bridging research on imagery and consciousness.
 
-Since 2024, I co-founded [IRCA](/irca/) which is "Interdisciplinary Reading Club of Aphantasia". We are looking for potential future speakers and welcome all researchers who may be interested, from fields of neuroscience, psychology, philosophy of mind etc. The IRCA and its collaborators are planning to organise a conference on _aphantasia_ in Glasgow, UK, September 2-4, 2026. Check our conference website and the Call for Abstract -> [here](https://sites.google.com/view/irca-conference-2026/home), submission deadline _17/04/2026_.
+Since 2024, I co-founded [IRCA](/irca/) which is "Interdisciplinary Research Community of Aphantasia". We are looking for potential future speakers and welcome all researchers who may be interested, from fields of neuroscience, psychology, philosophy of mind etc. The IRCA and its collaborators are planning to organise a conference on _aphantasia_ in Glasgow, UK, September 2-4, 2026. Check our conference website [here](https://sites.google.com/view/irca-conference-2026/home).
 
 **Feel free to reach out** for any ideas or suggestions of collaboration —I’d love to connect!
 

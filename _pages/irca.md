@@ -62,24 +62,14 @@ description: Interdisciplinary Reading Club of Aphantasia (IRCA)
 
 > _We believe that such interdisciplinary discussions are vital to advancing the science of consciousness and revealing the deeper nature of human cognition._
 
-Sessions are not recorded to encourage open discussion with the speaker. If you conduct scientific research on aphantasia or related fields and would like to join future sessions, please contact us at jianghaolouisliu@gmail.com or c.o.scholzzz@gmail.com.
+Sessions are NOT recorded to encourage open discussion with the speaker. If you conduct scientific research on aphantasia or related fields and would like to join future sessions, please contact us at jianghaolouisliu@gmail.com or c.o.scholzzz@gmail.com.
 
 We’re currently looking for speakers and exploring ideas for future workshops. If you have any suggestions, please don’t hesitate to reach out — we especially encourage students to share their ideas!
 
-:rotating\*light: We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026. There is the link for [Call for Abstract](https://sites.google.com/view/irca-conference-2026/call-for-abstracts?authuser=0), submission before **17/04/2026**.
+:rotating\*light: We are organising the first **IRCA conference** on Aphantasia (https://sites.google.com/view/irca-conference-2026/home) in Glasgow (UK) from 2 to 4 September 2026.
 
-Next speakers: **Rocco Chiou** (Birkbeck, University of London)  
-Time: **March the 26th at 3pm (Central Europe Time/Paris)**  
-Title: **What can cortical topography reveal about human cognition?**
-
-**Abstract**  
-What can cortical topography reveal about human cognition? In this talk, I will show that large-scale cortical organisation provides a principled framework for understanding higher-order cognition by focusing on four core topographical features. First, regions positioned between functionally distinct cortical zones often exhibit a “betweenness” property: topographically intermediate areas tend to express functional hybrids, integrating features of adjacent systems (for example, regions between visual- and auditory-specific cortex supporting multisensory representations that blend visual and auditory features). Second, transmodal territories (e.g., the middle section of the inferior parietal gyrus) are physically more distant from primary unimodal anchors (e.g., V1, A1, S1), and this increased geodesic distance provides the anatomical space that enables cross-modal convergence, such that greater distance from unimodal cortex predicts greater transmodality. Third, this hierarchical arrangement maps onto representational abstractness: unimodal cortex encodes concrete, stimulus-bound information, whereas progressively more transmodal regions encode increasingly abstract, context-level features of tasks, with gradient peaks supporting the most abstract aspects of cognition. Fourth, transmodal regions exhibit contextual flexibility, dynamically shifting their connectivity profiles according to task demands and integrating distributed information across networks. Drawing on evidence from studies of cognitive control, semantic knowledge, and multisensory mental imagery, I will present evidence about how these four principles – betweenness, distance, abstractness, and flexibility – jointly explain why association cortices, including the angular gyrus, anterior temporal cortex, and dorsomedial prefrontal cortex, play a central role in memory-guided cognition and stimulus-independent thought. Together, a topographical perspective offers a unifying account linking macroscale cortical geometry to the neural basis of high-order cognition.
-
-**Schedured future sessions:**
-
-- Pauline Trevena (University of Glasgow): April 14
-- Wilma Bainbridge (University of Chicago): April 28
-- Special guest for the 2nd IRCA anniversary talk: End of May
+**Schedured future sessions:**  
+2026 Fall sessions are coming soon. We will restart after IRCA conference.
 
 **Here is a list of past sessions:**  
 (abstract below)
@@ -95,6 +85,34 @@ What can cortical topography reveal about human cognition? In this talk, I will 
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>two-year</strong></td>
+      <td>2026-05-22</td>
+      <td>Bence Nanay</td>
+      <td>University of Antwerp</td>
+      <td>Visualizers vs. Conceptualisers: Reframing the discussion of aphantasia and hyperphantasia</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>2026-04-28</td>
+      <td>Wilma Bainbridge</td>
+      <td>University of Chicago</td>
+      <td>How do you remember without visual imagery?</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>2026-04-14</td>
+      <td>Pauline Trevena</td>
+      <td>University of Glasgow</td>
+      <td>Can you hypnotise, if they can't visualise? Lessons on aphantasia and therapy from (non-) hypnotic experiences</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>2026-03-26</td>
+      <td>Rocco Chiou</td>
+      <td>Birkbeck, University of London</td>
+      <td>What can cortical topography reveal about human cognition?</td>
+    </tr>
     <tr>
       <td>19</td>
       <td>2026-03-10</td>
@@ -232,6 +250,22 @@ What can cortical topography reveal about human cognition? In this talk, I will 
 </table>
 
 ## Abstract
+
+**23th: Bence Nanay: Visualizers vs. Conceptualisers: Reframing the discussion of aphantasia and hyperphantasia**
+
+The aim of this talk is to argue that instead of focusing on the contrast between aphantasics and non-aphantasics or the contrast between hyperphantasics and non-hyperphantasics (or the threefold contrast between aphantasics, hyperphantasics and the rest), we should consider the entirety of the imagery vividness spectrum. I introduce the terms ‘visualizers’ and ‘conceptualisers’ to refer to those who are closer to the aphantasia end of the spectrum and to the hyperphantasia end, respectively. And I argue that the differences between visualisers and conceptualisers can be, and often are, more significant than the differences between aphantasics and non-aphantasics (or the differences between hypephantasics and non-hyperphantasics).
+
+**22nd: Wilma Bainbridge: How do you remember without visual imagery?**  
+Along with a lack of visual imagery, individuals with aphantasia also tend to lack detailed visual recollection (Bainbridge et al., 2021)—thus serving as an interesting, natural "knock-out" model for visual memory. However, across three experiments I will show how aphantasic participants do not perform how we would expect given our current understandings of visual memory. First, aphantasic participants seem to experience the picture superiority effect, despite an inability to access the memory via a visual route (Yan et al., 2026). Second, aphantasic participants show widespread deficits in visual working memory—even for items that could be encoded with verbal or phonological strategies (Zhao et al., in review). Finally, aphantasics show a similar ability as controls to remember images absent of semantic information (Megla et al., in prep). However, we find none of these results can be explained via a purely metacognitive account, and instead may suggest compensatory strategies that have been underexplored thus far. In sum, despite these consistent differences from our predictions, aphantasia continues to serve as an exciting mystery with promise to reveal the mechanisms of visual memory and imagery.
+
+**21st: Paulina Trevena: Can you hypnotise, if they can't visualise? Lessons on aphantasia and therapy from (non-) hypnotic experiences**
+
+Clinical hypnosis (or hypnotherapy) is a therapeutic modality where visualisation and other forms of mental imagery are commonly used, as is retrieving past memories and emotions, or envisioning oneself in the future. These techniques can be highly challenging for people with aphantasia and may pose a barrier to accessing treatment. This was my own experience as a global aphantasic, and – as it turned out during my hypnosis training – that of many others with aphantasia. My study “Aphantasia and hypnosis: (How) can you hypnotise if the subject cannot visualise?” involved working with 25 aphantasic hypnotherapists. It had two aims: to explore their experiences of hypnosis, and to identify best techniques for working with aphantasic clients. This qualitative, experimental study consisted of focus group discussions on participants’ previous experiences of hypnosis, and several hypnosis experiments with the
+group involving different hypnosis protocols. In this presentation, I will discuss what barriers aphantasic clients face when trying to access hypnotherapy, and what we can learn about aphantasic individuals from their experiences of hypnosis. Importantly, these learnings have wider implications for therapeutic work with aphantasic clients and equality of access to mental health support.
+
+**20th: Rocco Chiou: What can cortical topography reveal about human cognition?**
+
+What can cortical topography reveal about human cognition? In this talk, I will show that large-scale cortical organisation provides a principled framework for understanding higher-order cognition by focusing on four core topographical features. First, regions positioned between functionally distinct cortical zones often exhibit a “betweenness” property: topographically intermediate areas tend to express functional hybrids, integrating features of adjacent systems (for example, regions between visual- and auditory-specific cortex supporting multisensory representations that blend visual and auditory features). Second, transmodal territories (e.g., the middle section of the inferior parietal gyrus) are physically more distant from primary unimodal anchors (e.g., V1, A1, S1), and this increased geodesic distance provides the anatomical space that enables cross-modal convergence, such that greater distance from unimodal cortex predicts greater transmodality. Third, this hierarchical arrangement maps onto representational abstractness: unimodal cortex encodes concrete, stimulus-bound information, whereas progressively more transmodal regions encode increasingly abstract, context-level features of tasks, with gradient peaks supporting the most abstract aspects of cognition. Fourth, transmodal regions exhibit contextual flexibility, dynamically shifting their connectivity profiles according to task demands and integrating distributed information across networks. Drawing on evidence from studies of cognitive control, semantic knowledge, and multisensory mental imagery, I will present evidence about how these four principles – betweenness, distance, abstractness, and flexibility – jointly explain why association cortices, including the angular gyrus, anterior temporal cortex, and dorsomedial prefrontal cortex, play a central role in memory-guided cognition and stimulus-independent thought. Together, a topographical perspective offers a unifying account linking macroscale cortical geometry to the neural basis of high-order cognition.
 
 **19th: Derek H. Arnold: The hopeless quest for a reliable objective metric of visual imagery**
 
